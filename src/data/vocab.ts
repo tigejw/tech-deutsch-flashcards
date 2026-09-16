@@ -8,7 +8,7 @@ export const moduleSummaries = vocabData.map((module) => {
         moduleId: module.moduleId,
         moduleTitle: module.moduleTitle,
         lessons: module.lessons.map((lesson) => {
-            return { lessonNumber: lesson.lessonNumber, lessonTItle: lesson.lessonTitle }
+            return { lessonId: lesson.lessonId, lessonTitle: lesson.lessonTitle }
         })
     }
 })
