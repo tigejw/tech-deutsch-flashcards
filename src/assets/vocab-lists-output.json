@@ -1,0 +1,5823 @@
+[
+  {
+    "moduleTitle": "",
+    "moduleId": 1,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m1-l1-000",
+            "module": 1,
+            "lesson": 1,
+            "de": "der Entwickler / die Entwicklerin",
+            "en": "developer"
+          },
+          {
+            "id": "m1-l1-001",
+            "module": 1,
+            "lesson": 1,
+            "de": "der Projektmanager / die Projektmanagerin",
+            "en": "project manager"
+          },
+          {
+            "id": "m1-l1-002",
+            "module": 1,
+            "lesson": 1,
+            "de": "der UX/UI-Designer",
+            "en": "UX/UI designer"
+          },
+          {
+            "id": "m1-l1-003",
+            "module": 1,
+            "lesson": 1,
+            "de": "der QA-Ingenieur / die QA-Ingenieurin",
+            "en": "QA engineer"
+          },
+          {
+            "id": "m1-l1-004",
+            "module": 1,
+            "lesson": 1,
+            "de": "der Data Scientist",
+            "en": "data scientist"
+          },
+          {
+            "id": "m1-l1-005",
+            "module": 1,
+            "lesson": 1,
+            "de": "der Berufsalltag",
+            "en": "professional routine / working day"
+          },
+          {
+            "id": "m1-l1-006",
+            "module": 1,
+            "lesson": 1,
+            "de": "sich ausdrücken",
+            "en": "to express oneself"
+          },
+          {
+            "id": "m1-l1-007",
+            "module": 1,
+            "lesson": 1,
+            "de": "präzise",
+            "en": "precise"
+          },
+          {
+            "id": "m1-l1-008",
+            "module": 1,
+            "lesson": 1,
+            "de": "authentisch",
+            "en": "authentic"
+          },
+          {
+            "id": "m1-l1-009",
+            "module": 1,
+            "lesson": 1,
+            "de": "das Feedback",
+            "en": "feedback"
+          },
+          {
+            "id": "m1-l1-010",
+            "module": 1,
+            "lesson": 1,
+            "de": "überzeugen",
+            "en": "to convince"
+          },
+          {
+            "id": "m1-l1-011",
+            "module": 1,
+            "lesson": 1,
+            "de": "das Bewerbungsgespräch",
+            "en": "job interview"
+          },
+          {
+            "id": "m1-l1-012",
+            "module": 1,
+            "lesson": 1,
+            "de": "der Aufstieg",
+            "en": "promotion / advancement"
+          },
+          {
+            "id": "m1-l1-013",
+            "module": 1,
+            "lesson": 1,
+            "de": "die Kommunikation",
+            "en": "communication"
+          },
+          {
+            "id": "m1-l1-014",
+            "module": 1,
+            "lesson": 1,
+            "de": "schriftlich",
+            "en": "written"
+          },
+          {
+            "id": "m1-l1-015",
+            "module": 1,
+            "lesson": 1,
+            "de": "mündlich",
+            "en": "spoken / oral"
+          },
+          {
+            "id": "m1-l1-016",
+            "module": 1,
+            "lesson": 1,
+            "de": "die Kaffeepause",
+            "en": "coffee break"
+          },
+          {
+            "id": "m1-l1-017",
+            "module": 1,
+            "lesson": 1,
+            "de": "der Download",
+            "en": "download"
+          },
+          {
+            "id": "m1-l1-018",
+            "module": 1,
+            "lesson": 1,
+            "de": "sich etwas trauen",
+            "en": "to dare something / to have the courage"
+          },
+          {
+            "id": "m1-l1-019",
+            "module": 1,
+            "lesson": 1,
+            "de": "das Selbstvertrauen",
+            "en": "self-confidence"
+          },
+          {
+            "id": "m1-l1-020",
+            "module": 1,
+            "lesson": 1,
+            "de": "die Wirkung",
+            "en": "effect / impact"
+          }
+        ],
+        "lessonTitle": "Willkommen & Kursüberblick",
+        "lessonNumber": 1,
+        "moduleId": 1
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m1-l2-000",
+            "module": 1,
+            "lesson": 2,
+            "de": "die Anredeform",
+            "en": "form of address"
+          },
+          {
+            "id": "m1-l2-001",
+            "module": 1,
+            "lesson": 2,
+            "de": "formell",
+            "en": "formal"
+          },
+          {
+            "id": "m1-l2-002",
+            "module": 1,
+            "lesson": 2,
+            "de": "informell",
+            "en": "informal"
+          },
+          {
+            "id": "m1-l2-003",
+            "module": 1,
+            "lesson": 2,
+            "de": "die Unternehmenskultur",
+            "en": "corporate culture"
+          },
+          {
+            "id": "m1-l2-004",
+            "module": 1,
+            "lesson": 2,
+            "de": "der Vorgesetzte",
+            "en": "superior / manager"
+          },
+          {
+            "id": "m1-l2-005",
+            "module": 1,
+            "lesson": 2,
+            "de": "der Kunde / die Kundin",
+            "en": "client / customer"
+          },
+          {
+            "id": "m1-l2-006",
+            "module": 1,
+            "lesson": 2,
+            "de": "intern",
+            "en": "internal"
+          },
+          {
+            "id": "m1-l2-007",
+            "module": 1,
+            "lesson": 2,
+            "de": "extern",
+            "en": "external"
+          },
+          {
+            "id": "m1-l2-008",
+            "module": 1,
+            "lesson": 2,
+            "de": "duzen",
+            "en": "to address with \"du\""
+          },
+          {
+            "id": "m1-l2-009",
+            "module": 1,
+            "lesson": 2,
+            "de": "siezen",
+            "en": "to address with \"Sie\""
+          },
+          {
+            "id": "m1-l2-010",
+            "module": 1,
+            "lesson": 2,
+            "de": "die Teamkultur",
+            "en": "team culture"
+          },
+          {
+            "id": "m1-l2-011",
+            "module": 1,
+            "lesson": 2,
+            "de": "der Kollege / die Kollegin",
+            "en": "colleague"
+          },
+          {
+            "id": "m1-l2-012",
+            "module": 1,
+            "lesson": 2,
+            "de": "höflich",
+            "en": "polite"
+          },
+          {
+            "id": "m1-l2-013",
+            "module": 1,
+            "lesson": 2,
+            "de": "respektvoll",
+            "en": "respectful"
+          },
+          {
+            "id": "m1-l2-014",
+            "module": 1,
+            "lesson": 2,
+            "de": "die Hierarchie",
+            "en": "hierarchy"
+          },
+          {
+            "id": "m1-l2-015",
+            "module": 1,
+            "lesson": 2,
+            "de": "der Projektmanager",
+            "en": "project manager"
+          },
+          {
+            "id": "m1-l2-016",
+            "module": 1,
+            "lesson": 2,
+            "de": "die Kommunikation",
+            "en": "communication"
+          },
+          {
+            "id": "m1-l2-017",
+            "module": 1,
+            "lesson": 2,
+            "de": "sich vorstellen",
+            "en": "to introduce oneself / to imagine"
+          },
+          {
+            "id": "m1-l2-018",
+            "module": 1,
+            "lesson": 2,
+            "de": "der/die Mitarbeitende",
+            "en": "employee"
+          },
+          {
+            "id": "m1-l2-019",
+            "module": 1,
+            "lesson": 2,
+            "de": "der Gesprächspartner / die Gesprächspartnerin",
+            "en": "conversation partner"
+          }
+        ],
+        "lessonTitle": "Wer spricht wie im Unternehmen? (Rollen & Anredeformen)",
+        "lessonNumber": 2,
+        "moduleId": 1
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m1-l3-000",
+            "module": 1,
+            "lesson": 3,
+            "de": "der Ton",
+            "en": "tone (of voice or writing)"
+          },
+          {
+            "id": "m1-l3-001",
+            "module": 1,
+            "lesson": 3,
+            "de": "höflich",
+            "en": "polite"
+          },
+          {
+            "id": "m1-l3-002",
+            "module": 1,
+            "lesson": 3,
+            "de": "sachlich",
+            "en": "objective / factual"
+          },
+          {
+            "id": "m1-l3-003",
+            "module": 1,
+            "lesson": 3,
+            "de": "die Ausdrucksweise",
+            "en": "way of expression"
+          },
+          {
+            "id": "m1-l3-004",
+            "module": 1,
+            "lesson": 3,
+            "de": "präzise",
+            "en": "precise"
+          },
+          {
+            "id": "m1-l3-005",
+            "module": 1,
+            "lesson": 3,
+            "de": "professionell",
+            "en": "professional"
+          },
+          {
+            "id": "m1-l3-006",
+            "module": 1,
+            "lesson": 3,
+            "de": "die Rückmeldung",
+            "en": "feedback / response"
+          },
+          {
+            "id": "m1-l3-007",
+            "module": 1,
+            "lesson": 3,
+            "de": "die Fehlermeldung",
+            "en": "error message"
+          },
+          {
+            "id": "m1-l3-008",
+            "module": 1,
+            "lesson": 3,
+            "de": "erfolgreich",
+            "en": "successful"
+          },
+          {
+            "id": "m1-l3-009",
+            "module": 1,
+            "lesson": 3,
+            "de": "bearbeiten",
+            "en": "to process / to work on"
+          },
+          {
+            "id": "m1-l3-010",
+            "module": 1,
+            "lesson": 3,
+            "de": "abschließen",
+            "en": "to complete"
+          },
+          {
+            "id": "m1-l3-011",
+            "module": 1,
+            "lesson": 3,
+            "de": "umsetzen",
+            "en": "to implement"
+          },
+          {
+            "id": "m1-l3-012",
+            "module": 1,
+            "lesson": 3,
+            "de": "die Struktur",
+            "en": "structure"
+          },
+          {
+            "id": "m1-l3-013",
+            "module": 1,
+            "lesson": 3,
+            "de": "der Stil",
+            "en": "style"
+          },
+          {
+            "id": "m1-l3-014",
+            "module": 1,
+            "lesson": 3,
+            "de": "der Eindruck",
+            "en": "impression"
+          },
+          {
+            "id": "m1-l3-015",
+            "module": 1,
+            "lesson": 3,
+            "de": "kompetent",
+            "en": "competent"
+          },
+          {
+            "id": "m1-l3-016",
+            "module": 1,
+            "lesson": 3,
+            "de": "glaubwürdig",
+            "en": "credible / trustworthy"
+          },
+          {
+            "id": "m1-l3-017",
+            "module": 1,
+            "lesson": 3,
+            "de": "vage",
+            "en": "vague"
+          },
+          {
+            "id": "m1-l3-018",
+            "module": 1,
+            "lesson": 3,
+            "de": "diplomatisch",
+            "en": "diplomatic"
+          },
+          {
+            "id": "m1-l3-019",
+            "module": 1,
+            "lesson": 3,
+            "de": "respektvoll",
+            "en": "respectful"
+          },
+          {
+            "id": "m1-l3-020",
+            "module": 1,
+            "lesson": 3,
+            "de": "der Unterschied",
+            "en": "difference"
+          }
+        ],
+        "lessonTitle": "Alltagsdeutsch vs. Business-Deutsch",
+        "lessonNumber": 3,
+        "moduleId": 1
+      }
+    ]
+  },
+  {
+    "moduleTitle": "Fachbegriffe & Jargon im Tech-Bereich",
+    "moduleId": 2,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m2-l1-000",
+            "module": 2,
+            "lesson": 1,
+            "de": "das System",
+            "en": "system"
+          },
+          {
+            "id": "m2-l1-001",
+            "module": 2,
+            "lesson": 1,
+            "de": "das IT-System",
+            "en": "IT system"
+          },
+          {
+            "id": "m2-l1-002",
+            "module": 2,
+            "lesson": 1,
+            "de": "das Buchungssystem",
+            "en": "booking system"
+          },
+          {
+            "id": "m2-l1-003",
+            "module": 2,
+            "lesson": 1,
+            "de": "das Warenwirtschaftssystem",
+            "en": "inventory management system"
+          },
+          {
+            "id": "m2-l1-004",
+            "module": 2,
+            "lesson": 1,
+            "de": "das Zugangskontrollsystem",
+            "en": "access control system"
+          },
+          {
+            "id": "m2-l1-005",
+            "module": 2,
+            "lesson": 1,
+            "de": "die Hardware",
+            "en": "hardware"
+          },
+          {
+            "id": "m2-l1-006",
+            "module": 2,
+            "lesson": 1,
+            "de": "das Endgerät",
+            "en": "terminal device / user device"
+          },
+          {
+            "id": "m2-l1-007",
+            "module": 2,
+            "lesson": 1,
+            "de": "der Arbeitsplatzrechner",
+            "en": "workstation"
+          },
+          {
+            "id": "m2-l1-008",
+            "module": 2,
+            "lesson": 1,
+            "de": "die Infrastruktur",
+            "en": "infrastructure"
+          },
+          {
+            "id": "m2-l1-009",
+            "module": 2,
+            "lesson": 1,
+            "de": "die Netzwerkkomponente",
+            "en": "network component"
+          },
+          {
+            "id": "m2-l1-010",
+            "module": 2,
+            "lesson": 1,
+            "de": "die Software",
+            "en": "software"
+          },
+          {
+            "id": "m2-l1-011",
+            "module": 2,
+            "lesson": 1,
+            "de": "das Betriebssystem",
+            "en": "operating system"
+          },
+          {
+            "id": "m2-l1-012",
+            "module": 2,
+            "lesson": 1,
+            "de": "die Anwendung",
+            "en": "application"
+          },
+          {
+            "id": "m2-l1-013",
+            "module": 2,
+            "lesson": 1,
+            "de": "die Applikation",
+            "en": "app / application"
+          },
+          {
+            "id": "m2-l1-014",
+            "module": 2,
+            "lesson": 1,
+            "de": "die Benutzeroberfläche",
+            "en": "user interface"
+          },
+          {
+            "id": "m2-l1-015",
+            "module": 2,
+            "lesson": 1,
+            "de": "die Systemlandschaft",
+            "en": "system landscape"
+          },
+          {
+            "id": "m2-l1-016",
+            "module": 2,
+            "lesson": 1,
+            "de": "kompatibel (adj.)",
+            "en": "compatible"
+          },
+          {
+            "id": "m2-l1-017",
+            "module": 2,
+            "lesson": 1,
+            "de": "verwalten",
+            "en": "to manage"
+          },
+          {
+            "id": "m2-l1-018",
+            "module": 2,
+            "lesson": 1,
+            "de": "liefern",
+            "en": "to deliver"
+          }
+        ],
+        "lessonTitle": "IT-Grundlagen – Systeme, Hardware, Software",
+        "lessonNumber": 1,
+        "moduleId": 2
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m2-l2-000",
+            "module": 2,
+            "lesson": 2,
+            "de": "der Quellcode",
+            "en": "source code"
+          },
+          {
+            "id": "m2-l2-001",
+            "module": 2,
+            "lesson": 2,
+            "de": "der Programmcode",
+            "en": "program code"
+          },
+          {
+            "id": "m2-l2-002",
+            "module": 2,
+            "lesson": 2,
+            "de": "das Skript",
+            "en": "script"
+          },
+          {
+            "id": "m2-l2-003",
+            "module": 2,
+            "lesson": 2,
+            "de": "dokumentieren",
+            "en": "to document"
+          },
+          {
+            "id": "m2-l2-004",
+            "module": 2,
+            "lesson": 2,
+            "de": "das Release",
+            "en": "release / version"
+          },
+          {
+            "id": "m2-l2-005",
+            "module": 2,
+            "lesson": 2,
+            "de": "das Framework",
+            "en": "framework"
+          },
+          {
+            "id": "m2-l2-006",
+            "module": 2,
+            "lesson": 2,
+            "de": "die Bibliothek",
+            "en": "library"
+          },
+          {
+            "id": "m2-l2-007",
+            "module": 2,
+            "lesson": 2,
+            "de": "das Modul",
+            "en": "module"
+          },
+          {
+            "id": "m2-l2-008",
+            "module": 2,
+            "lesson": 2,
+            "de": "komponentenbasiert",
+            "en": "component-based"
+          },
+          {
+            "id": "m2-l2-009",
+            "module": 2,
+            "lesson": 2,
+            "de": "das Build-Tool",
+            "en": "build tool"
+          },
+          {
+            "id": "m2-l2-010",
+            "module": 2,
+            "lesson": 2,
+            "de": "die Versionsverwaltung",
+            "en": "version control"
+          },
+          {
+            "id": "m2-l2-011",
+            "module": 2,
+            "lesson": 2,
+            "de": "das Debugging / der Debugger",
+            "en": "debugging / debugger"
+          },
+          {
+            "id": "m2-l2-012",
+            "module": 2,
+            "lesson": 2,
+            "de": "die integrierte Entwicklungsumgebung (IDE)",
+            "en": "integrated development environment"
+          },
+          {
+            "id": "m2-l2-013",
+            "module": 2,
+            "lesson": 2,
+            "de": "der Linter",
+            "en": "linter"
+          },
+          {
+            "id": "m2-l2-014",
+            "module": 2,
+            "lesson": 2,
+            "de": "der Compiler",
+            "en": "compiler"
+          },
+          {
+            "id": "m2-l2-015",
+            "module": 2,
+            "lesson": 2,
+            "de": "automatisiert (adj.)",
+            "en": "automated"
+          },
+          {
+            "id": "m2-l2-016",
+            "module": 2,
+            "lesson": 2,
+            "de": "implementieren",
+            "en": "to implement"
+          },
+          {
+            "id": "m2-l2-017",
+            "module": 2,
+            "lesson": 2,
+            "de": "entwickeln",
+            "en": "to develop"
+          },
+          {
+            "id": "m2-l2-018",
+            "module": 2,
+            "lesson": 2,
+            "de": "einarbeiten",
+            "en": "to onboard / to train in"
+          }
+        ],
+        "lessonTitle": "Entwickler-Deutsch – Code, Frameworks, Tools",
+        "lessonNumber": 2,
+        "moduleId": 2
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m2-l3-000",
+            "module": 2,
+            "lesson": 3,
+            "de": "agil",
+            "en": "agile"
+          },
+          {
+            "id": "m2-l3-001",
+            "module": 2,
+            "lesson": 3,
+            "de": "die agile Methode",
+            "en": "agile method"
+          },
+          {
+            "id": "m2-l3-002",
+            "module": 2,
+            "lesson": 3,
+            "de": "das agile Team",
+            "en": "agile team"
+          },
+          {
+            "id": "m2-l3-003",
+            "module": 2,
+            "lesson": 3,
+            "de": "das Framework",
+            "en": "framework"
+          },
+          {
+            "id": "m2-l3-004",
+            "module": 2,
+            "lesson": 3,
+            "de": "Scrum",
+            "en": "Scrum"
+          },
+          {
+            "id": "m2-l3-005",
+            "module": 2,
+            "lesson": 3,
+            "de": "der Product Owner",
+            "en": "product owner"
+          },
+          {
+            "id": "m2-l3-006",
+            "module": 2,
+            "lesson": 3,
+            "de": "der Scrum Master",
+            "en": "scrum master"
+          },
+          {
+            "id": "m2-l3-007",
+            "module": 2,
+            "lesson": 3,
+            "de": "das Daily Standup",
+            "en": "daily standup meeting"
+          },
+          {
+            "id": "m2-l3-008",
+            "module": 2,
+            "lesson": 3,
+            "de": "das Backlog",
+            "en": "backlog"
+          },
+          {
+            "id": "m2-l3-009",
+            "module": 2,
+            "lesson": 3,
+            "de": "die Sprintplanung",
+            "en": "sprint planning"
+          },
+          {
+            "id": "m2-l3-010",
+            "module": 2,
+            "lesson": 3,
+            "de": "das Sprintziel",
+            "en": "sprint goal"
+          },
+          {
+            "id": "m2-l3-011",
+            "module": 2,
+            "lesson": 3,
+            "de": "die Retrospektive",
+            "en": "retrospective"
+          },
+          {
+            "id": "m2-l3-012",
+            "module": 2,
+            "lesson": 3,
+            "de": "das Sprint Review",
+            "en": "sprint review"
+          },
+          {
+            "id": "m2-l3-013",
+            "module": 2,
+            "lesson": 3,
+            "de": "der Blocker",
+            "en": "blocker / obstacle"
+          },
+          {
+            "id": "m2-l3-014",
+            "module": 2,
+            "lesson": 3,
+            "de": "iterativ",
+            "en": "iterative"
+          },
+          {
+            "id": "m2-l3-015",
+            "module": 2,
+            "lesson": 3,
+            "de": "priorisieren",
+            "en": "to prioritize"
+          },
+          {
+            "id": "m2-l3-016",
+            "module": 2,
+            "lesson": 3,
+            "de": "präsentieren",
+            "en": "to present"
+          }
+        ],
+        "lessonTitle": "Projektmanagement – Agile, Scrum, Sprint",
+        "lessonNumber": 3,
+        "moduleId": 2
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m2-l4-000",
+            "module": 2,
+            "lesson": 4,
+            "de": "die User Experience (UX)",
+            "en": "user experience"
+          },
+          {
+            "id": "m2-l4-001",
+            "module": 2,
+            "lesson": 4,
+            "de": "die Benutzeroberfläche (UI)",
+            "en": "user interface"
+          },
+          {
+            "id": "m2-l4-002",
+            "module": 2,
+            "lesson": 4,
+            "de": "die Nutzerführung",
+            "en": "user guidance / navigation logic"
+          },
+          {
+            "id": "m2-l4-003",
+            "module": 2,
+            "lesson": 4,
+            "de": "die Bedienbarkeit",
+            "en": "usability / ease of use"
+          },
+          {
+            "id": "m2-l4-004",
+            "module": 2,
+            "lesson": 4,
+            "de": "das Interaktionsdesign",
+            "en": "interaction design"
+          },
+          {
+            "id": "m2-l4-005",
+            "module": 2,
+            "lesson": 4,
+            "de": "die Benutzerfreundlichkeit",
+            "en": "user-friendliness"
+          },
+          {
+            "id": "m2-l4-006",
+            "module": 2,
+            "lesson": 4,
+            "de": "das Design Thinking",
+            "en": "design thinking"
+          },
+          {
+            "id": "m2-l4-007",
+            "module": 2,
+            "lesson": 4,
+            "de": "die Ideenfindung",
+            "en": "ideation"
+          },
+          {
+            "id": "m2-l4-008",
+            "module": 2,
+            "lesson": 4,
+            "de": "die Persona",
+            "en": "persona"
+          },
+          {
+            "id": "m2-l4-009",
+            "module": 2,
+            "lesson": 4,
+            "de": "der Prototyp",
+            "en": "prototype"
+          },
+          {
+            "id": "m2-l4-010",
+            "module": 2,
+            "lesson": 4,
+            "de": "das Prototyping",
+            "en": "prototyping"
+          },
+          {
+            "id": "m2-l4-011",
+            "module": 2,
+            "lesson": 4,
+            "de": "die Iteration",
+            "en": "iteration"
+          },
+          {
+            "id": "m2-l4-012",
+            "module": 2,
+            "lesson": 4,
+            "de": "nutzerzentriert",
+            "en": "user-centered"
+          },
+          {
+            "id": "m2-l4-013",
+            "module": 2,
+            "lesson": 4,
+            "de": "die Zielgruppe",
+            "en": "target group"
+          },
+          {
+            "id": "m2-l4-014",
+            "module": 2,
+            "lesson": 4,
+            "de": "barrierefrei",
+            "en": "accessible"
+          },
+          {
+            "id": "m2-l4-015",
+            "module": 2,
+            "lesson": 4,
+            "de": "mobiloptimiert / Mobile First",
+            "en": "mobile first"
+          },
+          {
+            "id": "m2-l4-016",
+            "module": 2,
+            "lesson": 4,
+            "de": "das Feedback",
+            "en": "feedback"
+          },
+          {
+            "id": "m2-l4-017",
+            "module": 2,
+            "lesson": 4,
+            "de": "testen",
+            "en": "to test"
+          },
+          {
+            "id": "m2-l4-018",
+            "module": 2,
+            "lesson": 4,
+            "de": "bewerten",
+            "en": "to evaluate"
+          }
+        ],
+        "lessonTitle": "UX/UI & Design Thinking",
+        "lessonNumber": 4,
+        "moduleId": 2
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m2-l5-001",
+            "module": 2,
+            "lesson": 5,
+            "de": "die Cloud",
+            "en": "the cloud"
+          },
+          {
+            "id": "m2-l5-002",
+            "module": 2,
+            "lesson": 5,
+            "de": "cloudbasiert",
+            "en": "cloud-based"
+          },
+          {
+            "id": "m2-l5-003",
+            "module": 2,
+            "lesson": 5,
+            "de": "die Cloud-Lösung",
+            "en": "cloud solution"
+          },
+          {
+            "id": "m2-l5-004",
+            "module": 2,
+            "lesson": 5,
+            "de": "der Cloud-Anbieter",
+            "en": "cloud provider"
+          },
+          {
+            "id": "m2-l5-005",
+            "module": 2,
+            "lesson": 5,
+            "de": "die Datensicherheit",
+            "en": "data security"
+          },
+          {
+            "id": "m2-l5-006",
+            "module": 2,
+            "lesson": 5,
+            "de": "die Zugriffskontrolle",
+            "en": "access control"
+          },
+          {
+            "id": "m2-l5-007",
+            "module": 2,
+            "lesson": 5,
+            "de": "die Skalierung",
+            "en": "scaling"
+          },
+          {
+            "id": "m2-l5-008",
+            "module": 2,
+            "lesson": 5,
+            "de": "die künstliche Intelligenz (KI)",
+            "en": "artificial intelligence (AI)"
+          },
+          {
+            "id": "m2-l5-009",
+            "module": 2,
+            "lesson": 5,
+            "de": "das Machine Learning",
+            "en": "machine learning"
+          },
+          {
+            "id": "m2-l5-010",
+            "module": 2,
+            "lesson": 5,
+            "de": "das Vorhersagemodell",
+            "en": "prediction model"
+          },
+          {
+            "id": "m2-l5-011",
+            "module": 2,
+            "lesson": 5,
+            "de": "die Trainingsdaten",
+            "en": "training data"
+          },
+          {
+            "id": "m2-l5-012",
+            "module": 2,
+            "lesson": 5,
+            "de": "der Algorithmus",
+            "en": "algorithm"
+          },
+          {
+            "id": "m2-l5-013",
+            "module": 2,
+            "lesson": 5,
+            "de": "die Automatisierung",
+            "en": "automation"
+          },
+          {
+            "id": "m2-l5-014",
+            "module": 2,
+            "lesson": 5,
+            "de": "das neuronale Netz",
+            "en": "neural network"
+          },
+          {
+            "id": "m2-l5-015",
+            "module": 2,
+            "lesson": 5,
+            "de": "das Big Data",
+            "en": "big data"
+          },
+          {
+            "id": "m2-l5-016",
+            "module": 2,
+            "lesson": 5,
+            "de": "die Datenanalyse",
+            "en": "data analysis"
+          },
+          {
+            "id": "m2-l5-017",
+            "module": 2,
+            "lesson": 5,
+            "de": "die Datenmenge",
+            "en": "data volume"
+          },
+          {
+            "id": "m2-l5-018",
+            "module": 2,
+            "lesson": 5,
+            "de": "strukturierte Daten",
+            "en": "structured data"
+          },
+          {
+            "id": "m2-l5-019",
+            "module": 2,
+            "lesson": 5,
+            "de": "unstrukturierte Daten",
+            "en": "unstructured data"
+          },
+          {
+            "id": "m2-l5-020",
+            "module": 2,
+            "lesson": 5,
+            "de": "das Internet der Dinge (IoT)",
+            "en": "Internet of Things"
+          },
+          {
+            "id": "m2-l5-021",
+            "module": 2,
+            "lesson": 5,
+            "de": "das smarte Gerät",
+            "en": "smart device"
+          },
+          {
+            "id": "m2-l5-022",
+            "module": 2,
+            "lesson": 5,
+            "de": "das IoT-Netzwerk",
+            "en": "IoT network"
+          }
+        ],
+        "lessonTitle": "Buzzwords, Cloud, KI und Co",
+        "lessonNumber": 5,
+        "moduleId": 2
+      }
+    ]
+  },
+  {
+    "moduleTitle": "E-Mail- und Chat-Kommunikation",
+    "moduleId": 3,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m3-l1-000",
+            "module": 3,
+            "lesson": 1,
+            "de": "die Anrede",
+            "en": "salutation"
+          },
+          {
+            "id": "m3-l1-001",
+            "module": 3,
+            "lesson": 1,
+            "de": "formell",
+            "en": "formal"
+          },
+          {
+            "id": "m3-l1-002",
+            "module": 3,
+            "lesson": 1,
+            "de": "informell",
+            "en": "informal"
+          },
+          {
+            "id": "m3-l1-003",
+            "module": 3,
+            "lesson": 1,
+            "de": "die Grußformel",
+            "en": "closing phrase"
+          },
+          {
+            "id": "m3-l1-004",
+            "module": 3,
+            "lesson": 1,
+            "de": "die E-Mail",
+            "en": "email"
+          },
+          {
+            "id": "m3-l1-005",
+            "module": 3,
+            "lesson": 1,
+            "de": "die Nachricht",
+            "en": "message"
+          },
+          {
+            "id": "m3-l1-006",
+            "module": 3,
+            "lesson": 1,
+            "de": "der Ton",
+            "en": "tone"
+          },
+          {
+            "id": "m3-l1-007",
+            "module": 3,
+            "lesson": 1,
+            "de": "die Höflichkeitsform",
+            "en": "polite form / formal address"
+          },
+          {
+            "id": "m3-l1-008",
+            "module": 3,
+            "lesson": 1,
+            "de": "der Empfänger / die Empfängerin",
+            "en": "recipient"
+          },
+          {
+            "id": "m3-l1-009",
+            "module": 3,
+            "lesson": 1,
+            "de": "die Kommunikation",
+            "en": "communication"
+          },
+          {
+            "id": "m3-l1-010",
+            "module": 3,
+            "lesson": 1,
+            "de": "der Eindruck",
+            "en": "impression"
+          },
+          {
+            "id": "m3-l1-011",
+            "module": 3,
+            "lesson": 1,
+            "de": "die Kundenkommunikation",
+            "en": "customer communication"
+          },
+          {
+            "id": "m3-l1-012",
+            "module": 3,
+            "lesson": 1,
+            "de": "die Unternehmenskultur",
+            "en": "corporate culture"
+          },
+          {
+            "id": "m3-l1-013",
+            "module": 3,
+            "lesson": 1,
+            "de": "duzen",
+            "en": "to address with \"du\""
+          },
+          {
+            "id": "m3-l1-014",
+            "module": 3,
+            "lesson": 1,
+            "de": "siezen",
+            "en": "to address with \"Sie\""
+          },
+          {
+            "id": "m3-l1-015",
+            "module": 3,
+            "lesson": 1,
+            "de": "die Rückmeldung",
+            "en": "feedback / reply"
+          },
+          {
+            "id": "m3-l1-016",
+            "module": 3,
+            "lesson": 1,
+            "de": "verschicken",
+            "en": "to send"
+          },
+          {
+            "id": "m3-l1-017",
+            "module": 3,
+            "lesson": 1,
+            "de": "die Bitte",
+            "en": "request"
+          },
+          {
+            "id": "m3-l1-018",
+            "module": 3,
+            "lesson": 1,
+            "de": "der Unterschied",
+            "en": "difference"
+          }
+        ],
+        "lessonTitle": "Formelle vs. informelle E-Mails",
+        "lessonNumber": 1,
+        "moduleId": 3
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m3-l2-000",
+            "module": 3,
+            "lesson": 2,
+            "de": "der Betreff",
+            "en": "subject line"
+          },
+          {
+            "id": "m3-l2-001",
+            "module": 3,
+            "lesson": 2,
+            "de": "die Struktur",
+            "en": "structure"
+          },
+          {
+            "id": "m3-l2-002",
+            "module": 3,
+            "lesson": 2,
+            "de": "präzise",
+            "en": "precise"
+          },
+          {
+            "id": "m3-l2-003",
+            "module": 3,
+            "lesson": 2,
+            "de": "die Übersicht",
+            "en": "overview"
+          },
+          {
+            "id": "m3-l2-004",
+            "module": 3,
+            "lesson": 2,
+            "de": "die Information",
+            "en": "information"
+          },
+          {
+            "id": "m3-l2-005",
+            "module": 3,
+            "lesson": 2,
+            "de": "das Anliegen",
+            "en": "request / concern"
+          },
+          {
+            "id": "m3-l2-006",
+            "module": 3,
+            "lesson": 2,
+            "de": "die Handlungsaufforderung",
+            "en": "call to action"
+          },
+          {
+            "id": "m3-l2-007",
+            "module": 3,
+            "lesson": 2,
+            "de": "die Deadline",
+            "en": "deadline"
+          },
+          {
+            "id": "m3-l2-008",
+            "module": 3,
+            "lesson": 2,
+            "de": "anhängen",
+            "en": "to attach"
+          },
+          {
+            "id": "m3-l2-009",
+            "module": 3,
+            "lesson": 2,
+            "de": "der Anhang",
+            "en": "attachment"
+          },
+          {
+            "id": "m3-l2-010",
+            "module": 3,
+            "lesson": 2,
+            "de": "der Kontext",
+            "en": "context"
+          },
+          {
+            "id": "m3-l2-011",
+            "module": 3,
+            "lesson": 2,
+            "de": "der Projektname",
+            "en": "project name"
+          },
+          {
+            "id": "m3-l2-012",
+            "module": 3,
+            "lesson": 2,
+            "de": "das Ticket",
+            "en": "ticket"
+          },
+          {
+            "id": "m3-l2-013",
+            "module": 3,
+            "lesson": 2,
+            "de": "der Mehraufwand",
+            "en": "additional effort"
+          },
+          {
+            "id": "m3-l2-014",
+            "module": 3,
+            "lesson": 2,
+            "de": "das Feedback",
+            "en": "feedback"
+          },
+          {
+            "id": "m3-l2-015",
+            "module": 3,
+            "lesson": 2,
+            "de": "die Klarheit",
+            "en": "clarity"
+          },
+          {
+            "id": "m3-l2-016",
+            "module": 3,
+            "lesson": 2,
+            "de": "die Einleitung",
+            "en": "introduction"
+          },
+          {
+            "id": "m3-l2-017",
+            "module": 3,
+            "lesson": 2,
+            "de": "abschließen",
+            "en": "to close / to end"
+          }
+        ],
+        "lessonTitle": "Gute Betreffzeilen & klare Struktur",
+        "lessonNumber": 2,
+        "moduleId": 3
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m3-l3-000",
+            "module": 3,
+            "lesson": 3,
+            "de": "die Anfrage",
+            "en": "inquiry / request"
+          },
+          {
+            "id": "m3-l3-001",
+            "module": 3,
+            "lesson": 3,
+            "de": "die Erinnerung",
+            "en": "reminder"
+          },
+          {
+            "id": "m3-l3-002",
+            "module": 3,
+            "lesson": 3,
+            "de": "die Rückfrage",
+            "en": "follow-up question"
+          },
+          {
+            "id": "m3-l3-003",
+            "module": 3,
+            "lesson": 3,
+            "de": "das Feedback",
+            "en": "feedback"
+          },
+          {
+            "id": "m3-l3-004",
+            "module": 3,
+            "lesson": 3,
+            "de": "der Vorschlag",
+            "en": "suggestion"
+          },
+          {
+            "id": "m3-l3-005",
+            "module": 3,
+            "lesson": 3,
+            "de": "die Formulierung",
+            "en": "phrasing / wording"
+          },
+          {
+            "id": "m3-l3-006",
+            "module": 3,
+            "lesson": 3,
+            "de": "die Umsetzung",
+            "en": "implementation"
+          },
+          {
+            "id": "m3-l3-007",
+            "module": 3,
+            "lesson": 3,
+            "de": "etwas ansprechen",
+            "en": "to address something"
+          },
+          {
+            "id": "m3-l3-008",
+            "module": 3,
+            "lesson": 3,
+            "de": "die Fehlermeldung",
+            "en": "error message"
+          },
+          {
+            "id": "m3-l3-009",
+            "module": 3,
+            "lesson": 3,
+            "de": "die Lösung",
+            "en": "solution"
+          },
+          {
+            "id": "m3-l3-010",
+            "module": 3,
+            "lesson": 3,
+            "de": "verbindlich",
+            "en": "binding / definite"
+          },
+          {
+            "id": "m3-l3-011",
+            "module": 3,
+            "lesson": 3,
+            "de": "rückmelden",
+            "en": "to give feedback / to respond"
+          },
+          {
+            "id": "m3-l3-012",
+            "module": 3,
+            "lesson": 3,
+            "de": "nachhaken",
+            "en": "to follow up"
+          },
+          {
+            "id": "m3-l3-013",
+            "module": 3,
+            "lesson": 3,
+            "de": "anbei",
+            "en": "attached / enclosed"
+          },
+          {
+            "id": "m3-l3-014",
+            "module": 3,
+            "lesson": 3,
+            "de": "vorschlagen",
+            "en": "to suggest"
+          },
+          {
+            "id": "m3-l3-015",
+            "module": 3,
+            "lesson": 3,
+            "de": "höflich",
+            "en": "polite"
+          },
+          {
+            "id": "m3-l3-016",
+            "module": 3,
+            "lesson": 3,
+            "de": "formulieren",
+            "en": "to phrase / to word"
+          },
+          {
+            "id": "m3-l3-017",
+            "module": 3,
+            "lesson": 3,
+            "de": "verschieben",
+            "en": "to postpone"
+          }
+        ],
+        "lessonTitle": "Typische Phrasen in Mails",
+        "lessonNumber": 3,
+        "moduleId": 3
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m3-l4-000",
+            "module": 3,
+            "lesson": 4,
+            "de": "das Chat-Tool",
+            "en": "chat tool"
+          },
+          {
+            "id": "m3-l4-001",
+            "module": 3,
+            "lesson": 4,
+            "de": "der Chatverlauf",
+            "en": "chat history"
+          },
+          {
+            "id": "m3-l4-002",
+            "module": 3,
+            "lesson": 4,
+            "de": "die Nachricht",
+            "en": "message"
+          },
+          {
+            "id": "m3-l4-003",
+            "module": 3,
+            "lesson": 4,
+            "de": "kurz und klar",
+            "en": "short and clear"
+          },
+          {
+            "id": "m3-l4-004",
+            "module": 3,
+            "lesson": 4,
+            "de": "der Stil",
+            "en": "style"
+          },
+          {
+            "id": "m3-l4-005",
+            "module": 3,
+            "lesson": 4,
+            "de": "die Kürze",
+            "en": "brevity"
+          },
+          {
+            "id": "m3-l4-006",
+            "module": 3,
+            "lesson": 4,
+            "de": "die Absprache",
+            "en": "agreement / coordination"
+          },
+          {
+            "id": "m3-l4-007",
+            "module": 3,
+            "lesson": 4,
+            "de": "die Abstimmung",
+            "en": "coordination"
+          },
+          {
+            "id": "m3-l4-008",
+            "module": 3,
+            "lesson": 4,
+            "de": "etwas erledigen",
+            "en": "to get something done"
+          },
+          {
+            "id": "m3-l4-009",
+            "module": 3,
+            "lesson": 4,
+            "de": "etwas deployen",
+            "en": "to deploy something"
+          },
+          {
+            "id": "m3-l4-010",
+            "module": 3,
+            "lesson": 4,
+            "de": "jemanden anpingen",
+            "en": "to ping someone"
+          },
+          {
+            "id": "m3-l4-011",
+            "module": 3,
+            "lesson": 4,
+            "de": "der Emoji",
+            "en": "emoji"
+          },
+          {
+            "id": "m3-l4-012",
+            "module": 3,
+            "lesson": 4,
+            "de": "die Reaktion",
+            "en": "reaction"
+          },
+          {
+            "id": "m3-l4-013",
+            "module": 3,
+            "lesson": 4,
+            "de": "informell",
+            "en": "informal"
+          },
+          {
+            "id": "m3-l4-014",
+            "module": 3,
+            "lesson": 4,
+            "de": "der Sprachstil",
+            "en": "language style"
+          },
+          {
+            "id": "m3-l4-015",
+            "module": 3,
+            "lesson": 4,
+            "de": "auf etwas verweisen",
+            "en": "to refer to something"
+          },
+          {
+            "id": "m3-l4-016",
+            "module": 3,
+            "lesson": 4,
+            "de": "das Status-Update",
+            "en": "status update"
+          },
+          {
+            "id": "m3-l4-017",
+            "module": 3,
+            "lesson": 4,
+            "de": "einheitlich",
+            "en": "consistent"
+          },
+          {
+            "id": "m3-l4-018",
+            "module": 3,
+            "lesson": 4,
+            "de": "sarkastisch",
+            "en": "sarcastic"
+          }
+        ],
+        "lessonTitle": "Umgang mit Chattools",
+        "lessonNumber": 4,
+        "moduleId": 3
+      }
+    ]
+  },
+  {
+    "moduleTitle": "Meetings meistern",
+    "moduleId": 4,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m4-l1-000",
+            "module": 4,
+            "lesson": 1,
+            "de": "das Meeting",
+            "en": "meeting"
+          },
+          {
+            "id": "m4-l1-001",
+            "module": 4,
+            "lesson": 1,
+            "de": "eröffnen",
+            "en": "to open / to start"
+          },
+          {
+            "id": "m4-l1-002",
+            "module": 4,
+            "lesson": 1,
+            "de": "die Begrüßung",
+            "en": "greeting"
+          },
+          {
+            "id": "m4-l1-003",
+            "module": 4,
+            "lesson": 1,
+            "de": "sich vorstellen",
+            "en": "to introduce oneself"
+          },
+          {
+            "id": "m4-l1-004",
+            "module": 4,
+            "lesson": 1,
+            "de": "der Ablauf",
+            "en": "agenda / procedure"
+          },
+          {
+            "id": "m4-l1-005",
+            "module": 4,
+            "lesson": 1,
+            "de": "der Einstieg",
+            "en": "introduction / beginning"
+          },
+          {
+            "id": "m4-l1-006",
+            "module": 4,
+            "lesson": 1,
+            "de": "die Anrede",
+            "en": "form of address"
+          },
+          {
+            "id": "m4-l1-007",
+            "module": 4,
+            "lesson": 1,
+            "de": "der Vorschlag",
+            "en": "suggestion"
+          },
+          {
+            "id": "m4-l1-008",
+            "module": 4,
+            "lesson": 1,
+            "de": "die Vorstellungsrunde",
+            "en": "introduction round"
+          },
+          {
+            "id": "m4-l1-009",
+            "module": 4,
+            "lesson": 1,
+            "de": "teilnehmen",
+            "en": "to participate"
+          },
+          {
+            "id": "m4-l1-010",
+            "module": 4,
+            "lesson": 1,
+            "de": "die Teilnehmerin / der Teilnehmer",
+            "en": "participant"
+          },
+          {
+            "id": "m4-l1-011",
+            "module": 4,
+            "lesson": 1,
+            "de": "einladen",
+            "en": "to invite"
+          },
+          {
+            "id": "m4-l1-012",
+            "module": 4,
+            "lesson": 1,
+            "de": "die Agenda",
+            "en": "agenda"
+          },
+          {
+            "id": "m4-l1-013",
+            "module": 4,
+            "lesson": 1,
+            "de": "das Projektmeeting",
+            "en": "project meeting"
+          },
+          {
+            "id": "m4-l1-014",
+            "module": 4,
+            "lesson": 1,
+            "de": "der Wochenstart",
+            "en": "start of the week"
+          },
+          {
+            "id": "m4-l1-015",
+            "module": 4,
+            "lesson": 1,
+            "de": "neu im Team",
+            "en": "new in the team"
+          }
+        ],
+        "lessonTitle": "Ein Meeting eröffnen & Teilnehmende begrüßen",
+        "lessonNumber": 1,
+        "moduleId": 4
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m4-l2-000",
+            "module": 4,
+            "lesson": 2,
+            "de": "die Meinung",
+            "en": "opinion"
+          },
+          {
+            "id": "m4-l2-001",
+            "module": 4,
+            "lesson": 2,
+            "de": "äußern",
+            "en": "to express"
+          },
+          {
+            "id": "m4-l2-002",
+            "module": 4,
+            "lesson": 2,
+            "de": "zustimmen",
+            "en": "to agree"
+          },
+          {
+            "id": "m4-l2-003",
+            "module": 4,
+            "lesson": 2,
+            "de": "widersprechen",
+            "en": "to disagree"
+          },
+          {
+            "id": "m4-l2-004",
+            "module": 4,
+            "lesson": 2,
+            "de": "höflich",
+            "en": "polite"
+          },
+          {
+            "id": "m4-l2-005",
+            "module": 4,
+            "lesson": 2,
+            "de": "professionell",
+            "en": "professional"
+          },
+          {
+            "id": "m4-l2-006",
+            "module": 4,
+            "lesson": 2,
+            "de": "zurückhaltend",
+            "en": "reserved / cautious"
+          },
+          {
+            "id": "m4-l2-007",
+            "module": 4,
+            "lesson": 2,
+            "de": "der Einwand",
+            "en": "objection"
+          },
+          {
+            "id": "m4-l2-008",
+            "module": 4,
+            "lesson": 2,
+            "de": "die Zustimmung",
+            "en": "agreement"
+          },
+          {
+            "id": "m4-l2-009",
+            "module": 4,
+            "lesson": 2,
+            "de": "der Widerspruch",
+            "en": "contradiction / disagreement"
+          },
+          {
+            "id": "m4-l2-010",
+            "module": 4,
+            "lesson": 2,
+            "de": "diplomatisch",
+            "en": "diplomatic"
+          },
+          {
+            "id": "m4-l2-011",
+            "module": 4,
+            "lesson": 2,
+            "de": "direkt",
+            "en": "direct"
+          },
+          {
+            "id": "m4-l2-012",
+            "module": 4,
+            "lesson": 2,
+            "de": "nachvollziehbar",
+            "en": "comprehensible"
+          },
+          {
+            "id": "m4-l2-013",
+            "module": 4,
+            "lesson": 2,
+            "de": "sich einbringen",
+            "en": "to contribute"
+          },
+          {
+            "id": "m4-l2-014",
+            "module": 4,
+            "lesson": 2,
+            "de": "der Vorschlag",
+            "en": "suggestion"
+          },
+          {
+            "id": "m4-l2-015",
+            "module": 4,
+            "lesson": 2,
+            "de": "einverstanden sein",
+            "en": "to agree"
+          }
+        ],
+        "lessonTitle": "Meinung äußern, zustimmen und widersprechen",
+        "lessonNumber": 2,
+        "moduleId": 4
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m4-l3-000",
+            "module": 4,
+            "lesson": 3,
+            "de": "der Vorschlag",
+            "en": "proposal / suggestion"
+          },
+          {
+            "id": "m4-l3-001",
+            "module": 4,
+            "lesson": 3,
+            "de": "etwas vorschlagen",
+            "en": "to suggest something"
+          },
+          {
+            "id": "m4-l3-002",
+            "module": 4,
+            "lesson": 3,
+            "de": "eine Entscheidung treffen",
+            "en": "to make a decision"
+          },
+          {
+            "id": "m4-l3-003",
+            "module": 4,
+            "lesson": 3,
+            "de": "herbeiführen",
+            "en": "to bring about / to lead to"
+          },
+          {
+            "id": "m4-l3-004",
+            "module": 4,
+            "lesson": 3,
+            "de": "gemeinsam",
+            "en": "together"
+          },
+          {
+            "id": "m4-l3-005",
+            "module": 4,
+            "lesson": 3,
+            "de": "konstruktiv",
+            "en": "constructive"
+          },
+          {
+            "id": "m4-l3-006",
+            "module": 4,
+            "lesson": 3,
+            "de": "sich einigen",
+            "en": "to come to an agreement"
+          },
+          {
+            "id": "m4-l3-007",
+            "module": 4,
+            "lesson": 3,
+            "de": "die Umsetzung",
+            "en": "implementation"
+          },
+          {
+            "id": "m4-l3-008",
+            "module": 4,
+            "lesson": 3,
+            "de": "sich abstimmen",
+            "en": "to coordinate"
+          },
+          {
+            "id": "m4-l3-009",
+            "module": 4,
+            "lesson": 3,
+            "de": "festhalten",
+            "en": "to record / to confirm"
+          },
+          {
+            "id": "m4-l3-010",
+            "module": 4,
+            "lesson": 3,
+            "de": "die Verantwortung",
+            "en": "responsibility"
+          },
+          {
+            "id": "m4-l3-011",
+            "module": 4,
+            "lesson": 3,
+            "de": "das Ergebnis",
+            "en": "result / outcome"
+          },
+          {
+            "id": "m4-l3-012",
+            "module": 4,
+            "lesson": 3,
+            "de": "die Einigung",
+            "en": "agreement"
+          },
+          {
+            "id": "m4-l3-013",
+            "module": 4,
+            "lesson": 3,
+            "de": "entscheidend",
+            "en": "decisive"
+          },
+          {
+            "id": "m4-l3-014",
+            "module": 4,
+            "lesson": 3,
+            "de": "der nächste Schritt",
+            "en": "next step"
+          }
+        ],
+        "lessonTitle": "Vorschläge machen & Entscheidungen herbeiführen",
+        "lessonNumber": 3,
+        "moduleId": 4
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m4-l4-000",
+            "module": 4,
+            "lesson": 4,
+            "de": "das Problem",
+            "en": "problem"
+          },
+          {
+            "id": "m4-l4-001",
+            "module": 4,
+            "lesson": 4,
+            "de": "ansprechen",
+            "en": "to address"
+          },
+          {
+            "id": "m4-l4-002",
+            "module": 4,
+            "lesson": 4,
+            "de": "die Lösung",
+            "en": "solution"
+          },
+          {
+            "id": "m4-l4-003",
+            "module": 4,
+            "lesson": 4,
+            "de": "vorschlagen",
+            "en": "to suggest"
+          },
+          {
+            "id": "m4-l4-004",
+            "module": 4,
+            "lesson": 4,
+            "de": "lösungsorientiert",
+            "en": "solution-oriented"
+          },
+          {
+            "id": "m4-l4-005",
+            "module": 4,
+            "lesson": 4,
+            "de": "sachlich",
+            "en": "objective / factual"
+          },
+          {
+            "id": "m4-l4-006",
+            "module": 4,
+            "lesson": 4,
+            "de": "konstruktiv",
+            "en": "constructive"
+          },
+          {
+            "id": "m4-l4-007",
+            "module": 4,
+            "lesson": 4,
+            "de": "neutral",
+            "en": "neutral"
+          },
+          {
+            "id": "m4-l4-008",
+            "module": 4,
+            "lesson": 4,
+            "de": "vermeiden",
+            "en": "to avoid"
+          },
+          {
+            "id": "m4-l4-009",
+            "module": 4,
+            "lesson": 4,
+            "de": "die Schuldzuweisung",
+            "en": "assigning blame"
+          },
+          {
+            "id": "m4-l4-010",
+            "module": 4,
+            "lesson": 4,
+            "de": "das Missverständnis",
+            "en": "misunderstanding"
+          },
+          {
+            "id": "m4-l4-011",
+            "module": 4,
+            "lesson": 4,
+            "de": "die Kommunikation",
+            "en": "communication"
+          },
+          {
+            "id": "m4-l4-012",
+            "module": 4,
+            "lesson": 4,
+            "de": "der Lösungsansatz",
+            "en": "solution approach"
+          },
+          {
+            "id": "m4-l4-013",
+            "module": 4,
+            "lesson": 4,
+            "de": "gemeinsam lösen",
+            "en": "to solve together"
+          },
+          {
+            "id": "m4-l4-014",
+            "module": 4,
+            "lesson": 4,
+            "de": "Feedback geben",
+            "en": "to give feedback"
+          },
+          {
+            "id": "m4-l4-015",
+            "module": 4,
+            "lesson": 4,
+            "de": "Verantwortung übernehmen",
+            "en": "to take responsibility"
+          }
+        ],
+        "lessonTitle": "Probleme besprechen und Lösungen vorschlagen",
+        "lessonNumber": 4,
+        "moduleId": 4
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m4-l5-000",
+            "module": 4,
+            "lesson": 5,
+            "de": "zusammenfassen",
+            "en": "to summarize"
+          },
+          {
+            "id": "m4-l5-001",
+            "module": 4,
+            "lesson": 5,
+            "de": "das Protokoll",
+            "en": "meeting minutes"
+          },
+          {
+            "id": "m4-l5-002",
+            "module": 4,
+            "lesson": 5,
+            "de": "der Beschluss",
+            "en": "resolution / decision"
+          },
+          {
+            "id": "m4-l5-003",
+            "module": 4,
+            "lesson": 5,
+            "de": "die Aufgabe",
+            "en": "task"
+          },
+          {
+            "id": "m4-l5-004",
+            "module": 4,
+            "lesson": 5,
+            "de": "der Verantwortliche / die Verantwortliche",
+            "en": "responsible person"
+          },
+          {
+            "id": "m4-l5-005",
+            "module": 4,
+            "lesson": 5,
+            "de": "das Ergebnis",
+            "en": "result"
+          },
+          {
+            "id": "m4-l5-006",
+            "module": 4,
+            "lesson": 5,
+            "de": "der Ausblick",
+            "en": "outlook / preview"
+          },
+          {
+            "id": "m4-l5-007",
+            "module": 4,
+            "lesson": 5,
+            "de": "das nächste Meeting",
+            "en": "next meeting"
+          },
+          {
+            "id": "m4-l5-008",
+            "module": 4,
+            "lesson": 5,
+            "de": "die Übersicht",
+            "en": "overview"
+          },
+          {
+            "id": "m4-l5-009",
+            "module": 4,
+            "lesson": 5,
+            "de": "festhalten",
+            "en": "to document"
+          },
+          {
+            "id": "m4-l5-010",
+            "module": 4,
+            "lesson": 5,
+            "de": "abschließen",
+            "en": "to conclude"
+          },
+          {
+            "id": "m4-l5-011",
+            "module": 4,
+            "lesson": 5,
+            "de": "dokumentieren",
+            "en": "to document"
+          },
+          {
+            "id": "m4-l5-012",
+            "module": 4,
+            "lesson": 5,
+            "de": "das Status-Update",
+            "en": "status update"
+          },
+          {
+            "id": "m4-l5-013",
+            "module": 4,
+            "lesson": 5,
+            "de": "mündlich",
+            "en": "oral / spoken"
+          },
+          {
+            "id": "m4-l5-014",
+            "module": 4,
+            "lesson": 5,
+            "de": "schriftlich",
+            "en": "written"
+          }
+        ],
+        "lessonTitle": "Meetings zusammenfassen & Protokolle schreiben",
+        "lessonNumber": 5,
+        "moduleId": 4
+      }
+    ]
+  },
+  {
+    "moduleTitle": "Agile Arbeit und Teamkommunikation",
+    "moduleId": 5,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m5-l1-000",
+            "module": 5,
+            "lesson": 1,
+            "de": "das Standup / das Daily",
+            "en": "daily standup"
+          },
+          {
+            "id": "m5-l1-001",
+            "module": 5,
+            "lesson": 1,
+            "de": "das Team-Update",
+            "en": "team update"
+          },
+          {
+            "id": "m5-l1-002",
+            "module": 5,
+            "lesson": 1,
+            "de": "die Aufgabe",
+            "en": "task"
+          },
+          {
+            "id": "m5-l1-003",
+            "module": 5,
+            "lesson": 1,
+            "de": "der Blocker / das Hindernis",
+            "en": "blocker / obstacle"
+          },
+          {
+            "id": "m5-l1-004",
+            "module": 5,
+            "lesson": 1,
+            "de": "abschließen",
+            "en": "to complete"
+          },
+          {
+            "id": "m5-l1-005",
+            "module": 5,
+            "lesson": 1,
+            "de": "testen",
+            "en": "to test"
+          },
+          {
+            "id": "m5-l1-006",
+            "module": 5,
+            "lesson": 1,
+            "de": "arbeiten an + Dativ",
+            "en": "to work on"
+          },
+          {
+            "id": "m5-l1-007",
+            "module": 5,
+            "lesson": 1,
+            "de": "das Jira-Ticket",
+            "en": "Jira ticket"
+          },
+          {
+            "id": "m5-l1-008",
+            "module": 5,
+            "lesson": 1,
+            "de": "schließen",
+            "en": "to close / to resolve"
+          },
+          {
+            "id": "m5-l1-009",
+            "module": 5,
+            "lesson": 1,
+            "de": "warten auf",
+            "en": "to wait for"
+          },
+          {
+            "id": "m5-l1-010",
+            "module": 5,
+            "lesson": 1,
+            "de": "Unterstützung brauchen",
+            "en": "to need support"
+          },
+          {
+            "id": "m5-l1-011",
+            "module": 5,
+            "lesson": 1,
+            "de": "in Review sein",
+            "en": "to be in review"
+          },
+          {
+            "id": "m5-l1-012",
+            "module": 5,
+            "lesson": 1,
+            "de": "einen Pull Request erstellen",
+            "en": "to create a pull request"
+          },
+          {
+            "id": "m5-l1-013",
+            "module": 5,
+            "lesson": 1,
+            "de": "fast fertig sein mit",
+            "en": "to be almost done with"
+          },
+          {
+            "id": "m5-l1-014",
+            "module": 5,
+            "lesson": 1,
+            "de": "nichts machen",
+            "en": "to do nothing (vermeiden!)"
+          },
+          {
+            "id": "m5-l1-016",
+            "module": 5,
+            "lesson": 1,
+            "de": "die Freigabe",
+            "en": "approval / clearance"
+          },
+          {
+            "id": "m5-l1-017",
+            "module": 5,
+            "lesson": 1,
+            "de": "unsicher sein bei",
+            "en": "to be unsure about"
+          }
+        ],
+        "lessonTitle": "Tägliche Standups auf Deutsch",
+        "lessonNumber": 1,
+        "moduleId": 5
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m5-l2-000",
+            "module": 5,
+            "lesson": 2,
+            "de": "das Jira-Ticket",
+            "en": "Jira ticket"
+          },
+          {
+            "id": "m5-l2-001",
+            "module": 5,
+            "lesson": 2,
+            "de": "das Projektmanagement - Tool",
+            "en": "project management tool"
+          },
+          {
+            "id": "m5-l2-002",
+            "module": 5,
+            "lesson": 2,
+            "de": "die Aufgabe (Task)",
+            "en": "task"
+          },
+          {
+            "id": "m5-l2-003",
+            "module": 5,
+            "lesson": 2,
+            "de": "der Bug",
+            "en": "bug / error"
+          },
+          {
+            "id": "m5-l2-004",
+            "module": 5,
+            "lesson": 2,
+            "de": "die User Story",
+            "en": "user story"
+          },
+          {
+            "id": "m5-l2-005",
+            "module": 5,
+            "lesson": 2,
+            "de": "das Feature",
+            "en": "feature"
+          },
+          {
+            "id": "m5-l2-006",
+            "module": 5,
+            "lesson": 2,
+            "de": "der Titel",
+            "en": "title"
+          },
+          {
+            "id": "m5-l2-007",
+            "module": 5,
+            "lesson": 2,
+            "de": "die Beschreibung",
+            "en": "description"
+          },
+          {
+            "id": "m5-l2-008",
+            "module": 5,
+            "lesson": 2,
+            "de": "das Akzeptanzkriterium",
+            "en": "acceptance criterion"
+          },
+          {
+            "id": "m5-l2-009",
+            "module": 5,
+            "lesson": 2,
+            "de": "der Status",
+            "en": "status"
+          },
+          {
+            "id": "m5-l2-010",
+            "module": 5,
+            "lesson": 2,
+            "de": "offen",
+            "en": "open"
+          },
+          {
+            "id": "m5-l2-011",
+            "module": 5,
+            "lesson": 2,
+            "de": "in Bearbeitung",
+            "en": "in progress"
+          },
+          {
+            "id": "m5-l2-012",
+            "module": 5,
+            "lesson": 2,
+            "de": "in Review",
+            "en": "under review"
+          },
+          {
+            "id": "m5-l2-013",
+            "module": 5,
+            "lesson": 2,
+            "de": "erledigt",
+            "en": "done"
+          },
+          {
+            "id": "m5-l2-014",
+            "module": 5,
+            "lesson": 2,
+            "de": "prägnant",
+            "en": "concise"
+          },
+          {
+            "id": "m5-l2-015",
+            "module": 5,
+            "lesson": 2,
+            "de": "validieren",
+            "en": "to validate"
+          },
+          {
+            "id": "m5-l2-016",
+            "module": 5,
+            "lesson": 2,
+            "de": "doppelt erscheinen",
+            "en": "to appear twice"
+          },
+          {
+            "id": "m5-l2-017",
+            "module": 5,
+            "lesson": 2,
+            "de": "gespeichert werden",
+            "en": "to be saved"
+          },
+          {
+            "id": "m5-l2-018",
+            "module": 5,
+            "lesson": 2,
+            "de": "zentriert",
+            "en": "centered"
+          },
+          {
+            "id": "m5-l2-019",
+            "module": 5,
+            "lesson": 2,
+            "de": "responsive",
+            "en": "responsive"
+          },
+          {
+            "id": "m5-l2-020",
+            "module": 5,
+            "lesson": 2,
+            "de": "klicken",
+            "en": "to click"
+          },
+          {
+            "id": "m5-l2-021",
+            "module": 5,
+            "lesson": 2,
+            "de": "bestätigen",
+            "en": "to confirm"
+          },
+          {
+            "id": "m5-l2-022",
+            "module": 5,
+            "lesson": 2,
+            "de": "übersichtlich",
+            "en": "well-structured"
+          },
+          {
+            "id": "m5-l2-023",
+            "module": 5,
+            "lesson": 2,
+            "de": "zielorientiert",
+            "en": "goal-oriented"
+          }
+        ],
+        "lessonTitle": "Jira & Tickets: Deutschsprachige Einträge richtig schreiben",
+        "lessonNumber": 2,
+        "moduleId": 5
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m5-l3-000",
+            "module": 5,
+            "lesson": 3,
+            "de": "das Feedback",
+            "en": "feedback"
+          },
+          {
+            "id": "m5-l3-001",
+            "module": 5,
+            "lesson": 3,
+            "de": "konstruktiv",
+            "en": "constructive"
+          },
+          {
+            "id": "m5-l3-002",
+            "module": 5,
+            "lesson": 3,
+            "de": "die Kritik",
+            "en": "criticism"
+          },
+          {
+            "id": "m5-l3-003",
+            "module": 5,
+            "lesson": 3,
+            "de": "das Lob",
+            "en": "praise"
+          },
+          {
+            "id": "m5-l3-004",
+            "module": 5,
+            "lesson": 3,
+            "de": "der Verbesserungsvorschlag",
+            "en": "suggestion for improvement"
+          },
+          {
+            "id": "m5-l3-005",
+            "module": 5,
+            "lesson": 3,
+            "de": "die Rückmeldung",
+            "en": "feedback / response"
+          },
+          {
+            "id": "m5-l3-006",
+            "module": 5,
+            "lesson": 3,
+            "de": "beobachten",
+            "en": "to observe"
+          },
+          {
+            "id": "m5-l3-007",
+            "module": 5,
+            "lesson": 3,
+            "de": "die Wirkung",
+            "en": "effect"
+          },
+          {
+            "id": "m5-l3-008",
+            "module": 5,
+            "lesson": 3,
+            "de": "der Wunsch",
+            "en": "request / suggestion"
+          },
+          {
+            "id": "m5-l3-009",
+            "module": 5,
+            "lesson": 3,
+            "de": "sich entwickeln",
+            "en": "to develop oneself"
+          },
+          {
+            "id": "m5-l3-010",
+            "module": 5,
+            "lesson": 3,
+            "de": "das Vertrauen",
+            "en": "trust"
+          },
+          {
+            "id": "m5-l3-011",
+            "module": 5,
+            "lesson": 3,
+            "de": "das 1:1 - Gespräch",
+            "en": "one - on - one meeting"
+          },
+          {
+            "id": "m5-l3-012",
+            "module": 5,
+            "lesson": 3,
+            "de": "das Code Review",
+            "en": "code review"
+          },
+          {
+            "id": "m5-l3-013",
+            "module": 5,
+            "lesson": 3,
+            "de": "respektvoll",
+            "en": "respectful"
+          },
+          {
+            "id": "m5-l3-014",
+            "module": 5,
+            "lesson": 3,
+            "de": "ehrlich",
+            "en": "honest"
+          },
+          {
+            "id": "m5-l3-015",
+            "module": 5,
+            "lesson": 3,
+            "de": "sich etwas zu Herzen nehmen",
+            "en": "to take something to heart"
+          },
+          {
+            "id": "m5-l3-016",
+            "module": 5,
+            "lesson": 3,
+            "de": "sich bedanken für",
+            "en": "to thank for"
+          },
+          {
+            "id": "m5-l3-017",
+            "module": 5,
+            "lesson": 3,
+            "de": "sachlich bleiben",
+            "en": "to stay objective"
+          },
+          {
+            "id": "m5-l3-018",
+            "module": 5,
+            "lesson": 3,
+            "de": "offen ansprechen",
+            "en": "to address openly"
+          }
+        ],
+        "lessonTitle": "Feedback geben im Team",
+        "lessonNumber": 3,
+        "moduleId": 5
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m5-l4-000",
+            "module": 5,
+            "lesson": 4,
+            "de": "die Retrospektive (kurz: Retro)",
+            "en": "retrospective"
+          },
+          {
+            "id": "m5-l4-001",
+            "module": 5,
+            "lesson": 4,
+            "de": "das Sprint Review",
+            "en": "sprint review"
+          },
+          {
+            "id": "m5-l4-002",
+            "module": 5,
+            "lesson": 4,
+            "de": "das Produktinkrement",
+            "en": "product increment"
+          },
+          {
+            "id": "m5-l4-003",
+            "module": 5,
+            "lesson": 4,
+            "de": "Feedback einholen",
+            "en": "to gather feedback"
+          },
+          {
+            "id": "m5-l4-004",
+            "module": 5,
+            "lesson": 4,
+            "de": "die Zusammenarbeit",
+            "en": "collaboration"
+          },
+          {
+            "id": "m5-l4-005",
+            "module": 5,
+            "lesson": 4,
+            "de": "reflektieren",
+            "en": "to reflect"
+          },
+          {
+            "id": "m5-l4-006",
+            "module": 5,
+            "lesson": 4,
+            "de": "Verbesserungspotenzial entdecken",
+            "en": "to identify potential improvements"
+          },
+          {
+            "id": "m5-l4-007",
+            "module": 5,
+            "lesson": 4,
+            "de": "Maßnahmen ableiten",
+            "en": "to derive actions"
+          },
+          {
+            "id": "m5-l4-008",
+            "module": 5,
+            "lesson": 4,
+            "de": "etwas festhalten",
+            "en": "to record something"
+          },
+          {
+            "id": "m5-l4-009",
+            "module": 5,
+            "lesson": 4,
+            "de": "moderieren",
+            "en": "to moderate"
+          },
+          {
+            "id": "m5-l4-010",
+            "module": 5,
+            "lesson": 4,
+            "de": "die Stimmung abholen",
+            "en": "to check in on the mood"
+          },
+          {
+            "id": "m5-l4-011",
+            "module": 5,
+            "lesson": 4,
+            "de": "Schwierigkeiten benennen",
+            "en": "to name difficulties"
+          },
+          {
+            "id": "m5-l4-012",
+            "module": 5,
+            "lesson": 4,
+            "de": "Prozesse überdenken",
+            "en": "to reconsider processes"
+          },
+          {
+            "id": "m5-l4-013",
+            "module": 5,
+            "lesson": 4,
+            "de": "offen und ehrlich",
+            "en": "open and honest"
+          },
+          {
+            "id": "m5-l4-014",
+            "module": 5,
+            "lesson": 4,
+            "de": "die Kundensprache",
+            "en": "customer-friendly language"
+          },
+          {
+            "id": "m5-l4-015",
+            "module": 5,
+            "lesson": 4,
+            "de": "der Scrum Master",
+            "en": "Scrum Master"
+          },
+          {
+            "id": "m5-l4-016",
+            "module": 5,
+            "lesson": 4,
+            "de": "das Teammitglied",
+            "en": "team member"
+          },
+          {
+            "id": "m5-l4-017",
+            "module": 5,
+            "lesson": 4,
+            "de": "der Product Owner",
+            "en": "Product Owner"
+          },
+          {
+            "id": "m5-l4-018",
+            "module": 5,
+            "lesson": 4,
+            "de": "stressig",
+            "en": "stressful"
+          },
+          {
+            "id": "m5-l4-019",
+            "module": 5,
+            "lesson": 4,
+            "de": "die Deadline",
+            "en": "deadline"
+          },
+          {
+            "id": "m5-l4-020",
+            "module": 5,
+            "lesson": 4,
+            "de": "wertvolles Feedback",
+            "en": "valuable feedback"
+          }
+        ],
+        "lessonTitle": "Retrospektiven & Sprint-Reviews moderieren",
+        "lessonNumber": 4,
+        "moduleId": 5
+      }
+    ]
+  },
+  {
+    "moduleTitle": "Berichte & technische Dokumentation",
+    "moduleId": 6,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m6-l1-000",
+            "module": 6,
+            "lesson": 1,
+            "de": "der technische Bericht",
+            "en": "technical report"
+          },
+          {
+            "id": "m6-l1-001",
+            "module": 6,
+            "lesson": 1,
+            "de": "dokumentieren",
+            "en": "to document"
+          },
+          {
+            "id": "m6-l1-002",
+            "module": 6,
+            "lesson": 1,
+            "de": "nachvollziehbar",
+            "en": "traceable / comprehensible"
+          },
+          {
+            "id": "m6-l1-003",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Entscheidung",
+            "en": "decision"
+          },
+          {
+            "id": "m6-l1-004",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Übergabe",
+            "en": "handover"
+          },
+          {
+            "id": "m6-l1-005",
+            "module": 6,
+            "lesson": 1,
+            "de": "der Qualitätsnachweis",
+            "en": "quality record / certificate"
+          },
+          {
+            "id": "m6-l1-006",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Servermigration",
+            "en": "server migration"
+          },
+          {
+            "id": "m6-l1-007",
+            "module": 6,
+            "lesson": 1,
+            "de": "der Schritt",
+            "en": "step"
+          },
+          {
+            "id": "m6-l1-008",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Herausforderung",
+            "en": "challenge"
+          },
+          {
+            "id": "m6-l1-009",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Lösung",
+            "en": "solution"
+          },
+          {
+            "id": "m6-l1-010",
+            "module": 6,
+            "lesson": 1,
+            "de": "der Aufbau",
+            "en": "structure"
+          },
+          {
+            "id": "m6-l1-011",
+            "module": 6,
+            "lesson": 1,
+            "de": "das Deckblatt",
+            "en": "cover page"
+          },
+          {
+            "id": "m6-l1-012",
+            "module": 6,
+            "lesson": 1,
+            "de": "der Titel",
+            "en": "title"
+          },
+          {
+            "id": "m6-l1-013",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Einleitung",
+            "en": "introduction"
+          },
+          {
+            "id": "m6-l1-014",
+            "module": 6,
+            "lesson": 1,
+            "de": "das Ziel",
+            "en": "goal"
+          },
+          {
+            "id": "m6-l1-015",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Vorgehensweise",
+            "en": "approach / procedure"
+          },
+          {
+            "id": "m6-l1-016",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Methodik",
+            "en": "methodology"
+          },
+          {
+            "id": "m6-l1-017",
+            "module": 6,
+            "lesson": 1,
+            "de": "das Ergebnis",
+            "en": "result"
+          },
+          {
+            "id": "m6-l1-018",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Beobachtung",
+            "en": "observation"
+          },
+          {
+            "id": "m6-l1-019",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Bewertung",
+            "en": "evaluation"
+          },
+          {
+            "id": "m6-l1-020",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Analyse",
+            "en": "analysis"
+          },
+          {
+            "id": "m6-l1-021",
+            "module": 6,
+            "lesson": 1,
+            "de": "das Fazit",
+            "en": "conclusion"
+          },
+          {
+            "id": "m6-l1-022",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Empfehlung",
+            "en": "recommendation"
+          },
+          {
+            "id": "m6-l1-023",
+            "module": 6,
+            "lesson": 1,
+            "de": "der Anhang",
+            "en": "appendix"
+          },
+          {
+            "id": "m6-l1-024",
+            "module": 6,
+            "lesson": 1,
+            "de": "der Screenshot",
+            "en": "screenshot"
+          },
+          {
+            "id": "m6-l1-025",
+            "module": 6,
+            "lesson": 1,
+            "de": "das Code-Snippet",
+            "en": "code snippet"
+          },
+          {
+            "id": "m6-l1-026",
+            "module": 6,
+            "lesson": 1,
+            "de": "sachlich",
+            "en": "objective"
+          },
+          {
+            "id": "m6-l1-027",
+            "module": 6,
+            "lesson": 1,
+            "de": "neutral",
+            "en": "neutral"
+          },
+          {
+            "id": "m6-l1-028",
+            "module": 6,
+            "lesson": 1,
+            "de": "präzise",
+            "en": "precise"
+          },
+          {
+            "id": "m6-l1-029",
+            "module": 6,
+            "lesson": 1,
+            "de": "subjektiv",
+            "en": "subjective (vermeiden!)"
+          },
+          {
+            "id": "m6-l1-031",
+            "module": 6,
+            "lesson": 1,
+            "de": "die Quelle",
+            "en": "source"
+          },
+          {
+            "id": "m6-l1-032",
+            "module": 6,
+            "lesson": 1,
+            "de": "der Schachtelsatz",
+            "en": "nested sentence"
+          }
+        ],
+        "lessonTitle": "Aufbau technischer Berichte auf Deutsch",
+        "lessonNumber": 1,
+        "moduleId": 6
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m6-l2-000",
+            "module": 6,
+            "lesson": 2,
+            "de": "der Berichtsteil",
+            "en": "report section"
+          },
+          {
+            "id": "m6-l2-001",
+            "module": 6,
+            "lesson": 2,
+            "de": "die Formulierung",
+            "en": "phrasing / expression"
+          },
+          {
+            "id": "m6-l2-002",
+            "module": 6,
+            "lesson": 2,
+            "de": "die Standardformulierung",
+            "en": "standard phrase"
+          },
+          {
+            "id": "m6-l2-003",
+            "module": 6,
+            "lesson": 2,
+            "de": "der Kontext",
+            "en": "context"
+          },
+          {
+            "id": "m6-l2-004",
+            "module": 6,
+            "lesson": 2,
+            "de": "das Vorgehen",
+            "en": "procedure / approach"
+          },
+          {
+            "id": "m6-l2-005",
+            "module": 6,
+            "lesson": 2,
+            "de": "die Grundlage",
+            "en": "basis / foundation"
+          },
+          {
+            "id": "m6-l2-006",
+            "module": 6,
+            "lesson": 2,
+            "de": "das Tool",
+            "en": "tool"
+          },
+          {
+            "id": "m6-l2-007",
+            "module": 6,
+            "lesson": 2,
+            "de": "das Ergebnis",
+            "en": "result"
+          },
+          {
+            "id": "m6-l2-008",
+            "module": 6,
+            "lesson": 2,
+            "de": "die Beobachtung",
+            "en": "observation"
+          },
+          {
+            "id": "m6-l2-009",
+            "module": 6,
+            "lesson": 2,
+            "de": "die Ursache",
+            "en": "cause"
+          },
+          {
+            "id": "m6-l2-010",
+            "module": 6,
+            "lesson": 2,
+            "de": "die Empfehlung",
+            "en": "recommendation"
+          },
+          {
+            "id": "m6-l2-011",
+            "module": 6,
+            "lesson": 2,
+            "de": "implementieren",
+            "en": "to implement"
+          },
+          {
+            "id": "m6-l2-012",
+            "module": 6,
+            "lesson": 2,
+            "de": "die Daten zeigen …",
+            "en": "the data show …"
+          },
+          {
+            "id": "m6-l2-013",
+            "module": 6,
+            "lesson": 2,
+            "de": "denkbar sein",
+            "en": "to be conceivable"
+          },
+          {
+            "id": "m6-l2-014",
+            "module": 6,
+            "lesson": 2,
+            "de": "zielführend",
+            "en": "goal-oriented"
+          },
+          {
+            "id": "m6-l2-015",
+            "module": 6,
+            "lesson": 2,
+            "de": "der Stil",
+            "en": "style"
+          },
+          {
+            "id": "m6-l2-016",
+            "module": 6,
+            "lesson": 2,
+            "de": "der Passivsatz",
+            "en": "passive sentence"
+          },
+          {
+            "id": "m6-l2-017",
+            "module": 6,
+            "lesson": 2,
+            "de": "aktiv formulieren",
+            "en": "to phrase actively"
+          },
+          {
+            "id": "m6-l2-018",
+            "module": 6,
+            "lesson": 2,
+            "de": "lebendig",
+            "en": "lively / vivid"
+          }
+        ],
+        "lessonTitle": "Typische Formulierungen in Reports",
+        "lessonNumber": 2,
+        "moduleId": 6
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m6-l3-000",
+            "module": 6,
+            "lesson": 3,
+            "de": "die Spezifikation",
+            "en": "specification"
+          },
+          {
+            "id": "m6-l3-001",
+            "module": 6,
+            "lesson": 3,
+            "de": "die Anforderung",
+            "en": "requirement"
+          },
+          {
+            "id": "m6-l3-002",
+            "module": 6,
+            "lesson": 3,
+            "de": "die Rahmenbedingung",
+            "en": "framework condition"
+          },
+          {
+            "id": "m6-l3-003",
+            "module": 6,
+            "lesson": 3,
+            "de": "das System / die Anwendung",
+            "en": "system / application"
+          },
+          {
+            "id": "m6-l3-004",
+            "module": 6,
+            "lesson": 3,
+            "de": "die Umsetzungsgrundlage",
+            "en": "implementation basis"
+          },
+          {
+            "id": "m6-l3-005",
+            "module": 6,
+            "lesson": 3,
+            "de": "die Stakeholder",
+            "en": "stakeholders"
+          },
+          {
+            "id": "m6-l3-006",
+            "module": 6,
+            "lesson": 3,
+            "de": "die Produktspezifikation",
+            "en": "product specification"
+          },
+          {
+            "id": "m6-l3-007",
+            "module": 6,
+            "lesson": 3,
+            "de": "die API-Dokumentation",
+            "en": "API documentation"
+          },
+          {
+            "id": "m6-l3-008",
+            "module": 6,
+            "lesson": 3,
+            "de": "das Benutzerhandbuch",
+            "en": "user manual"
+          },
+          {
+            "id": "m6-l3-009",
+            "module": 6,
+            "lesson": 3,
+            "de": "die technische Architektur",
+            "en": "technical architecture"
+          },
+          {
+            "id": "m6-l3-010",
+            "module": 6,
+            "lesson": 3,
+            "de": "eindeutig",
+            "en": "unambiguous"
+          },
+          {
+            "id": "m6-l3-011",
+            "module": 6,
+            "lesson": 3,
+            "de": "die Zielgruppe",
+            "en": "target group"
+          },
+          {
+            "id": "m6-l3-012",
+            "module": 6,
+            "lesson": 3,
+            "de": "ermöglichen",
+            "en": "to enable"
+          },
+          {
+            "id": "m6-l3-013",
+            "module": 6,
+            "lesson": 3,
+            "de": "erfolgen",
+            "en": "to take place"
+          },
+          {
+            "id": "m6-l3-014",
+            "module": 6,
+            "lesson": 3,
+            "de": "gültig sein",
+            "en": "to be valid"
+          },
+          {
+            "id": "m6-l3-015",
+            "module": 6,
+            "lesson": 3,
+            "de": "optional",
+            "en": "optional"
+          },
+          {
+            "id": "m6-l3-016",
+            "module": 6,
+            "lesson": 3,
+            "de": "der Hinweis",
+            "en": "note / remark"
+          },
+          {
+            "id": "m6-l3-017",
+            "module": 6,
+            "lesson": 3,
+            "de": "vage",
+            "en": "vague (vermeiden)"
+          },
+          {
+            "id": "m6-l3-019",
+            "module": 6,
+            "lesson": 3,
+            "de": "persistieren",
+            "en": "to persist (data)"
+          },
+          {
+            "id": "m6-l3-020",
+            "module": 6,
+            "lesson": 3,
+            "de": "die Zeichenbegrenzung",
+            "en": "character limit"
+          },
+          {
+            "id": "m6-l3-021",
+            "module": 6,
+            "lesson": 3,
+            "de": "das Textfeld",
+            "en": "text field"
+          }
+        ],
+        "lessonTitle": "Spezifikationen und Dokumentation schreiben",
+        "lessonNumber": 3,
+        "moduleId": 6
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m6-l4-000",
+            "module": 6,
+            "lesson": 4,
+            "de": "die Qualitätssicherung (QA)",
+            "en": "quality assurance"
+          },
+          {
+            "id": "m6-l4-001",
+            "module": 6,
+            "lesson": 4,
+            "de": "der Testbericht",
+            "en": "test report"
+          },
+          {
+            "id": "m6-l4-002",
+            "module": 6,
+            "lesson": 4,
+            "de": "die Release Note",
+            "en": "release note / version log"
+          },
+          {
+            "id": "m6-l4-003",
+            "module": 6,
+            "lesson": 4,
+            "de": "der Testfall",
+            "en": "test case"
+          },
+          {
+            "id": "m6-l4-004",
+            "module": 6,
+            "lesson": 4,
+            "de": "der Testschritt",
+            "en": "test step"
+          },
+          {
+            "id": "m6-l4-005",
+            "module": 6,
+            "lesson": 4,
+            "de": "das erwartete Ergebnis",
+            "en": "expected result"
+          },
+          {
+            "id": "m6-l4-006",
+            "module": 6,
+            "lesson": 4,
+            "de": "das tatsächliche Ergebnis",
+            "en": "actual result"
+          },
+          {
+            "id": "m6-l4-007",
+            "module": 6,
+            "lesson": 4,
+            "de": "der Status",
+            "en": "status"
+          },
+          {
+            "id": "m6-l4-008",
+            "module": 6,
+            "lesson": 4,
+            "de": "bestanden / fehlgeschlagen",
+            "en": "passed / failed"
+          },
+          {
+            "id": "m6-l4-009",
+            "module": 6,
+            "lesson": 4,
+            "de": "der Kommentar",
+            "en": "comment"
+          },
+          {
+            "id": "m6-l4-010",
+            "module": 6,
+            "lesson": 4,
+            "de": "das Verhalten",
+            "en": "behavior"
+          },
+          {
+            "id": "m6-l4-011",
+            "module": 6,
+            "lesson": 4,
+            "de": "reproduzieren",
+            "en": "to reproduce"
+          },
+          {
+            "id": "m6-l4-012",
+            "module": 6,
+            "lesson": 4,
+            "de": "erfolgreich abgeschlossen",
+            "en": "successfully completed"
+          },
+          {
+            "id": "m6-l4-013",
+            "module": 6,
+            "lesson": 4,
+            "de": "offen / behoben",
+            "en": "open / resolved"
+          },
+          {
+            "id": "m6-l4-014",
+            "module": 6,
+            "lesson": 4,
+            "de": "erneut testen erforderlich",
+            "en": "retesting required"
+          },
+          {
+            "id": "m6-l4-015",
+            "module": 6,
+            "lesson": 4,
+            "de": "der Fehler / der Bug",
+            "en": "bug / error"
+          },
+          {
+            "id": "m6-l4-016",
+            "module": 6,
+            "lesson": 4,
+            "de": "behoben",
+            "en": "fixed"
+          },
+          {
+            "id": "m6-l4-017",
+            "module": 6,
+            "lesson": 4,
+            "de": "Einschränkung",
+            "en": "limitation"
+          },
+          {
+            "id": "m6-l4-018",
+            "module": 6,
+            "lesson": 4,
+            "de": "auftreten",
+            "en": "to occur"
+          },
+          {
+            "id": "m6-l4-019",
+            "module": 6,
+            "lesson": 4,
+            "de": "sporadisch",
+            "en": "sporadic"
+          },
+          {
+            "id": "m6-l4-020",
+            "module": 6,
+            "lesson": 4,
+            "de": "der Absturz",
+            "en": "crash"
+          },
+          {
+            "id": "m6-l4-021",
+            "module": 6,
+            "lesson": 4,
+            "de": "reagieren",
+            "en": "to respond"
+          },
+          {
+            "id": "m6-l4-022",
+            "module": 6,
+            "lesson": 4,
+            "de": "die Navigation",
+            "en": "navigation"
+          },
+          {
+            "id": "m6-l4-023",
+            "module": 6,
+            "lesson": 4,
+            "de": "das Dashboard",
+            "en": "dashboard"
+          },
+          {
+            "id": "m6-l4-024",
+            "module": 6,
+            "lesson": 4,
+            "de": "professionell",
+            "en": "professional"
+          },
+          {
+            "id": "m6-l4-025",
+            "module": 6,
+            "lesson": 4,
+            "de": "nachvollziehbar",
+            "en": "traceable / comprehensible"
+          }
+        ],
+        "lessonTitle": "Sprache für QA, Testberichte & Release Notes",
+        "lessonNumber": 4,
+        "moduleId": 6
+      }
+    ]
+  },
+  {
+    "moduleTitle": "Präsentationen halten,",
+    "moduleId": 7,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m7-l1-000",
+            "module": 7,
+            "lesson": 1,
+            "de": "Einleitung",
+            "en": "introduction"
+          },
+          {
+            "id": "m7-l1-001",
+            "module": 7,
+            "lesson": 1,
+            "de": "Hauptteil",
+            "en": "main section"
+          },
+          {
+            "id": "m7-l1-002",
+            "module": 7,
+            "lesson": 1,
+            "de": "Schluss",
+            "en": "conclusion"
+          },
+          {
+            "id": "m7-l1-003",
+            "module": 7,
+            "lesson": 1,
+            "de": "Gliederung",
+            "en": "outline"
+          },
+          {
+            "id": "m7-l1-004",
+            "module": 7,
+            "lesson": 1,
+            "de": "Übergang / Überleitung",
+            "en": "transition"
+          },
+          {
+            "id": "m7-l1-005",
+            "module": 7,
+            "lesson": 1,
+            "de": "roter Faden",
+            "en": "clear thread / throughline"
+          },
+          {
+            "id": "m7-l1-006",
+            "module": 7,
+            "lesson": 1,
+            "de": "Ziel der Präsentation",
+            "en": "goal of the presentation"
+          },
+          {
+            "id": "m7-l1-007",
+            "module": 7,
+            "lesson": 1,
+            "de": "Relevanz für das Publikum",
+            "en": "relevance for the audience"
+          },
+          {
+            "id": "m7-l1-008",
+            "module": 7,
+            "lesson": 1,
+            "de": "Zusammenfassung",
+            "en": "summary"
+          },
+          {
+            "id": "m7-l1-009",
+            "module": 7,
+            "lesson": 1,
+            "de": "Fazit",
+            "en": "takeaway / conclusion"
+          },
+          {
+            "id": "m7-l1-010",
+            "module": 7,
+            "lesson": 1,
+            "de": "Nächste Schritte",
+            "en": "next steps"
+          },
+          {
+            "id": "m7-l1-011",
+            "module": 7,
+            "lesson": 1,
+            "de": "„Heute möchte ich Ihnen … vorstellen.“",
+            "en": "\"Today, I’d like to present …\""
+          },
+          {
+            "id": "m7-l1-012",
+            "module": 7,
+            "lesson": 1,
+            "de": "„Wie Sie in dieser Grafik sehen …“",
+            "en": "\"As you can see in this graphic …\""
+          },
+          {
+            "id": "m7-l1-013",
+            "module": 7,
+            "lesson": 1,
+            "de": "„Damit möchte ich schließen.“",
+            "en": "\"I’d like to close with that.\""
+          },
+          {
+            "id": "m7-l1-014",
+            "module": 7,
+            "lesson": 1,
+            "de": "Fachchinesisch",
+            "en": "tech jargon"
+          },
+          {
+            "id": "m7-l1-015",
+            "module": 7,
+            "lesson": 1,
+            "de": "kein roter Faden",
+            "en": "lack of structure"
+          },
+          {
+            "id": "m7-l1-016",
+            "module": 7,
+            "lesson": 1,
+            "de": "ohne visuelle Unterstützung",
+            "en": "no visual support"
+          },
+          {
+            "id": "m7-l1-017",
+            "module": 7,
+            "lesson": 1,
+            "de": "keine klaren Takeaways",
+            "en": "no clear takeaways"
+          }
+        ],
+        "lessonTitle": "Aufbau einer Tech-Präsentation",
+        "lessonNumber": 1,
+        "moduleId": 7
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m7-l2-000",
+            "module": 7,
+            "lesson": 2,
+            "de": "Pitch",
+            "en": "pitch / brief product presentation"
+          },
+          {
+            "id": "m7-l2-001",
+            "module": 7,
+            "lesson": 2,
+            "de": "Problem darstellen",
+            "en": "describe the problem"
+          },
+          {
+            "id": "m7-l2-002",
+            "module": 7,
+            "lesson": 2,
+            "de": "Lösung präsentieren",
+            "en": "present the solution"
+          },
+          {
+            "id": "m7-l2-003",
+            "module": 7,
+            "lesson": 2,
+            "de": "Technischer Teil",
+            "en": "technical part"
+          },
+          {
+            "id": "m7-l2-004",
+            "module": 7,
+            "lesson": 2,
+            "de": "Nutzen & Wirkung",
+            "en": "benefit & impact"
+          },
+          {
+            "id": "m7-l2-005",
+            "module": 7,
+            "lesson": 2,
+            "de": "Call to Action",
+            "en": "call to action"
+          },
+          {
+            "id": "m7-l2-006",
+            "module": 7,
+            "lesson": 2,
+            "de": "MVP (Minimum Viable Product)",
+            "en": "MVP (Minimum Viable Product)"
+          },
+          {
+            "id": "m7-l2-007",
+            "module": 7,
+            "lesson": 2,
+            "de": "„Unsere Lösung ist …“",
+            "en": "\"Our solution is …\""
+          },
+          {
+            "id": "m7-l2-008",
+            "module": 7,
+            "lesson": 2,
+            "de": "„Wir haben ein MVP gebaut …“",
+            "en": "\"We’ve built an MVP that …\""
+          },
+          {
+            "id": "m7-l2-009",
+            "module": 7,
+            "lesson": 2,
+            "de": "„Wir suchen Pilotkund:innen.“",
+            "en": "\"We’re looking for pilot customers.\""
+          },
+          {
+            "id": "m7-l2-010",
+            "module": 7,
+            "lesson": 2,
+            "de": "„Kontaktieren Sie uns …“",
+            "en": "\"Please get in touch with us …\""
+          },
+          {
+            "id": "m7-l2-011",
+            "module": 7,
+            "lesson": 2,
+            "de": "zu technisch zu früh",
+            "en": "too technical too early"
+          },
+          {
+            "id": "m7-l2-012",
+            "module": 7,
+            "lesson": 2,
+            "de": "keine klare Handlungsaufforderung",
+            "en": "no clear action prompt"
+          },
+          {
+            "id": "m7-l2-013",
+            "module": 7,
+            "lesson": 2,
+            "de": "unklare Zielgruppe",
+            "en": "unclear target audience"
+          }
+        ],
+        "lessonTitle": "Pitches & Produktvorstellungen",
+        "lessonNumber": 2,
+        "moduleId": 7
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m7-l3-000",
+            "module": 7,
+            "lesson": 3,
+            "de": "Rückfrage",
+            "en": "follow-up question"
+          },
+          {
+            "id": "m7-l3-001",
+            "module": 7,
+            "lesson": 3,
+            "de": "Einwand",
+            "en": "objection"
+          },
+          {
+            "id": "m7-l3-002",
+            "module": 7,
+            "lesson": 3,
+            "de": "Verständnisfrage",
+            "en": "question of understanding"
+          },
+          {
+            "id": "m7-l3-003",
+            "module": 7,
+            "lesson": 3,
+            "de": "Kritik",
+            "en": "criticism"
+          },
+          {
+            "id": "m7-l3-004",
+            "module": 7,
+            "lesson": 3,
+            "de": "technische Rückfrage",
+            "en": "technical question"
+          },
+          {
+            "id": "m7-l3-005",
+            "module": 7,
+            "lesson": 3,
+            "de": "spontane Nachfrage",
+            "en": "spontaneous follow-up"
+          },
+          {
+            "id": "m7-l3-006",
+            "module": 7,
+            "lesson": 3,
+            "de": "„Gute Frage – ich erkläre das gern.“",
+            "en": "\"Good question – I’ll gladly explain.\""
+          },
+          {
+            "id": "m7-l3-007",
+            "module": 7,
+            "lesson": 3,
+            "de": "„Das sprengt den Rahmen.“",
+            "en": "\"That’s beyond today’s scope.\""
+          },
+          {
+            "id": "m7-l3-008",
+            "module": 7,
+            "lesson": 3,
+            "de": "„Ich finde das gern für Sie heraus.“",
+            "en": "\"I’ll gladly find that out for you.\""
+          },
+          {
+            "id": "m7-l3-009",
+            "module": 7,
+            "lesson": 3,
+            "de": "„Das ist ein valider Einwand.“",
+            "en": "\"That’s a valid point.\""
+          },
+          {
+            "id": "m7-l3-010",
+            "module": 7,
+            "lesson": 3,
+            "de": "„Ich sehe das etwas anders.“",
+            "en": "\"I see that a bit differently.\""
+          },
+          {
+            "id": "m7-l3-011",
+            "module": 7,
+            "lesson": 3,
+            "de": "aktiv zuhören",
+            "en": "listen actively"
+          },
+          {
+            "id": "m7-l3-012",
+            "module": 7,
+            "lesson": 3,
+            "de": "nicht in die Defensive gehen",
+            "en": "don’t get defensive"
+          },
+          {
+            "id": "m7-l3-013",
+            "module": 7,
+            "lesson": 3,
+            "de": "nicht unterbrechen",
+            "en": "don’t interrupt"
+          },
+          {
+            "id": "m7-l3-014",
+            "module": 7,
+            "lesson": 3,
+            "de": "neutral bleiben",
+            "en": "remain neutral"
+          },
+          {
+            "id": "m7-l3-015",
+            "module": 7,
+            "lesson": 3,
+            "de": "Kritik annehmen",
+            "en": "accept criticism"
+          }
+        ],
+        "lessonTitle": "Umgang mit Fragen aus dem Publikum",
+        "lessonNumber": 3,
+        "moduleId": 7
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m7-l4-000",
+            "module": 7,
+            "lesson": 4,
+            "de": "Ausgangslage",
+            "en": "starting situation"
+          },
+          {
+            "id": "m7-l4-001",
+            "module": 7,
+            "lesson": 4,
+            "de": "Problem / Konflikt",
+            "en": "problem / conflict"
+          },
+          {
+            "id": "m7-l4-002",
+            "module": 7,
+            "lesson": 4,
+            "de": "Wendepunkt",
+            "en": "turning point"
+          },
+          {
+            "id": "m7-l4-003",
+            "module": 7,
+            "lesson": 4,
+            "de": "Lösung",
+            "en": "solution"
+          },
+          {
+            "id": "m7-l4-004",
+            "module": 7,
+            "lesson": 4,
+            "de": "Ergebnis / Wirkung",
+            "en": "result / effect"
+          },
+          {
+            "id": "m7-l4-005",
+            "module": 7,
+            "lesson": 4,
+            "de": "„Stellen Sie sich vor …“",
+            "en": "\"Imagine …\""
+          },
+          {
+            "id": "m7-l4-006",
+            "module": 7,
+            "lesson": 4,
+            "de": "„Doch dann kam alles anders.“",
+            "en": "\"But then things turned out differently.\""
+          },
+          {
+            "id": "m7-l4-007",
+            "module": 7,
+            "lesson": 4,
+            "de": "„Also entwickelten wir …“",
+            "en": "\"So we developed …\""
+          },
+          {
+            "id": "m7-l4-008",
+            "module": 7,
+            "lesson": 4,
+            "de": "„Das Ergebnis kann sich sehen lassen.“",
+            "en": "\"The result speaks for itself.\""
+          },
+          {
+            "id": "m7-l4-009",
+            "module": 7,
+            "lesson": 4,
+            "de": "„Heute sieht es so aus …“",
+            "en": "\"Today, things look like this …\""
+          },
+          {
+            "id": "m7-l4-010",
+            "module": 7,
+            "lesson": 4,
+            "de": "Feature Release",
+            "en": "feature release"
+          },
+          {
+            "id": "m7-l4-011",
+            "module": 7,
+            "lesson": 4,
+            "de": "Bug-Fix erklären",
+            "en": "explain bug fix"
+          },
+          {
+            "id": "m7-l4-012",
+            "module": 7,
+            "lesson": 4,
+            "de": "Kundengeschichte / User Story",
+            "en": "customer story / user story"
+          },
+          {
+            "id": "m7-l4-013",
+            "module": 7,
+            "lesson": 4,
+            "de": "Change-Prozess",
+            "en": "change process"
+          }
+        ],
+        "lessonTitle": "Storytelling für technische Inhalte",
+        "lessonNumber": 4,
+        "moduleId": 7
+      }
+    ]
+  },
+  {
+    "moduleTitle": "Telefonate & Videokonferenzen",
+    "moduleId": 8,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m8-l1-000",
+            "module": 8,
+            "lesson": 1,
+            "de": "das Telefonat",
+            "en": "phone call"
+          },
+          {
+            "id": "m8-l1-001",
+            "module": 8,
+            "lesson": 1,
+            "de": "die Videokonferenz",
+            "en": "video conference"
+          },
+          {
+            "id": "m8-l1-002",
+            "module": 8,
+            "lesson": 1,
+            "de": "sich melden",
+            "en": "to introduce oneself (on the phone)"
+          },
+          {
+            "id": "m8-l1-003",
+            "module": 8,
+            "lesson": 1,
+            "de": "verbinden",
+            "en": "to connect / to transfer a call"
+          },
+          {
+            "id": "m8-l1-004",
+            "module": 8,
+            "lesson": 1,
+            "de": "sich verabschieden",
+            "en": "to say goodbye"
+          },
+          {
+            "id": "m8-l1-005",
+            "module": 8,
+            "lesson": 1,
+            "de": "die Begrüßung",
+            "en": "greeting"
+          },
+          {
+            "id": "m8-l1-006",
+            "module": 8,
+            "lesson": 1,
+            "de": "die Verabschiedung",
+            "en": "farewell"
+          },
+          {
+            "id": "m8-l1-007",
+            "module": 8,
+            "lesson": 1,
+            "de": "formell",
+            "en": "formal"
+          },
+          {
+            "id": "m8-l1-008",
+            "module": 8,
+            "lesson": 1,
+            "de": "informell",
+            "en": "informal"
+          },
+          {
+            "id": "m8-l1-009",
+            "module": 8,
+            "lesson": 1,
+            "de": "der Anruf",
+            "en": "phone call"
+          },
+          {
+            "id": "m8-l1-010",
+            "module": 8,
+            "lesson": 1,
+            "de": "der Anrufer / die Anruferin",
+            "en": "caller"
+          },
+          {
+            "id": "m8-l1-011",
+            "module": 8,
+            "lesson": 1,
+            "de": "die Firma",
+            "en": "company"
+          },
+          {
+            "id": "m8-l1-012",
+            "module": 8,
+            "lesson": 1,
+            "de": "die Leitung",
+            "en": "line (telephone)"
+          },
+          {
+            "id": "m8-l1-013",
+            "module": 8,
+            "lesson": 1,
+            "de": "erreichbar",
+            "en": "available / reachable"
+          },
+          {
+            "id": "m8-l1-014",
+            "module": 8,
+            "lesson": 1,
+            "de": "weiterleiten",
+            "en": "to forward (a call)"
+          },
+          {
+            "id": "m8-l1-015",
+            "module": 8,
+            "lesson": 1,
+            "de": "verfügbar",
+            "en": "available"
+          },
+          {
+            "id": "m8-l1-016",
+            "module": 8,
+            "lesson": 1,
+            "de": "freundlich",
+            "en": "friendly"
+          },
+          {
+            "id": "m8-l1-017",
+            "module": 8,
+            "lesson": 1,
+            "de": "deutlich",
+            "en": "clearly / articulate"
+          },
+          {
+            "id": "m8-l1-018",
+            "module": 8,
+            "lesson": 1,
+            "de": "die Rückfrage",
+            "en": "follow-up question"
+          },
+          {
+            "id": "m8-l1-019",
+            "module": 8,
+            "lesson": 1,
+            "de": "auflegen",
+            "en": "to hang up"
+          },
+          {
+            "id": "m8-l1-020",
+            "module": 8,
+            "lesson": 1,
+            "de": "das Gespräch",
+            "en": "conversation"
+          },
+          {
+            "id": "m8-l1-021",
+            "module": 8,
+            "lesson": 1,
+            "de": "das Headset",
+            "en": "headset"
+          },
+          {
+            "id": "m8-l1-022",
+            "module": 8,
+            "lesson": 1,
+            "de": "der Ton",
+            "en": "sound / audio"
+          },
+          {
+            "id": "m8-l1-023",
+            "module": 8,
+            "lesson": 1,
+            "de": "schlecht zu verstehen",
+            "en": "hard to hear"
+          },
+          {
+            "id": "m8-l1-024",
+            "module": 8,
+            "lesson": 1,
+            "de": "im Homeoffice",
+            "en": "working from home"
+          },
+          {
+            "id": "m8-l1-025",
+            "module": 8,
+            "lesson": 1,
+            "de": "das Meeting",
+            "en": "meeting"
+          },
+          {
+            "id": "m8-l1-026",
+            "module": 8,
+            "lesson": 1,
+            "de": "stummgeschaltet",
+            "en": "muted"
+          },
+          {
+            "id": "m8-l1-027",
+            "module": 8,
+            "lesson": 1,
+            "de": "der Bildschirm",
+            "en": "screen"
+          },
+          {
+            "id": "m8-l1-028",
+            "module": 8,
+            "lesson": 1,
+            "de": "der Teilnehmer / die Teilnehmerin",
+            "en": "participant"
+          },
+          {
+            "id": "m8-l1-029",
+            "module": 8,
+            "lesson": 1,
+            "de": "die Verbindung",
+            "en": "connection (internet or phone)"
+          }
+        ],
+        "lessonTitle": "Sich melden, verbinden & verabschieden",
+        "lessonNumber": 1,
+        "moduleId": 8
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m8-l2-000",
+            "module": 8,
+            "lesson": 2,
+            "de": "unterbrechen",
+            "en": "to interrupt"
+          },
+          {
+            "id": "m8-l2-001",
+            "module": 8,
+            "lesson": 2,
+            "de": "höflich",
+            "en": "polite"
+          },
+          {
+            "id": "m8-l2-002",
+            "module": 8,
+            "lesson": 2,
+            "de": "die Rückfrage",
+            "en": "follow-up question"
+          },
+          {
+            "id": "m8-l2-003",
+            "module": 8,
+            "lesson": 2,
+            "de": "nachfragen",
+            "en": "to ask / to clarify"
+          },
+          {
+            "id": "m8-l2-004",
+            "module": 8,
+            "lesson": 2,
+            "de": "ergänzen",
+            "en": "to add (a point)"
+          },
+          {
+            "id": "m8-l2-005",
+            "module": 8,
+            "lesson": 2,
+            "de": "eine Zwischenfrage stellen",
+            "en": "to ask an intermediate question"
+          },
+          {
+            "id": "m8-l2-006",
+            "module": 8,
+            "lesson": 2,
+            "de": "der Tonfall",
+            "en": "tone of voice"
+          },
+          {
+            "id": "m8-l2-007",
+            "module": 8,
+            "lesson": 2,
+            "de": "die Körpersprache",
+            "en": "body language"
+          },
+          {
+            "id": "m8-l2-008",
+            "module": 8,
+            "lesson": 2,
+            "de": "klären",
+            "en": "to clarify"
+          },
+          {
+            "id": "m8-l2-009",
+            "module": 8,
+            "lesson": 2,
+            "de": "missverstehen",
+            "en": "to misunderstand"
+          },
+          {
+            "id": "m8-l2-010",
+            "module": 8,
+            "lesson": 2,
+            "de": "die Verständlichkeit",
+            "en": "comprehensibility"
+          },
+          {
+            "id": "m8-l2-011",
+            "module": 8,
+            "lesson": 2,
+            "de": "paraphrasieren",
+            "en": "to paraphrase"
+          },
+          {
+            "id": "m8-l2-012",
+            "module": 8,
+            "lesson": 2,
+            "de": "wiederholen",
+            "en": "to repeat"
+          },
+          {
+            "id": "m8-l2-013",
+            "module": 8,
+            "lesson": 2,
+            "de": "sicherstellen",
+            "en": "to ensure"
+          },
+          {
+            "id": "m8-l2-014",
+            "module": 8,
+            "lesson": 2,
+            "de": "einhaken",
+            "en": "to interject"
+          },
+          {
+            "id": "m8-l2-015",
+            "module": 8,
+            "lesson": 2,
+            "de": "verzeihen",
+            "en": "to excuse / to pardon"
+          },
+          {
+            "id": "m8-l2-016",
+            "module": 8,
+            "lesson": 2,
+            "de": "konkret",
+            "en": "specific / concrete"
+          },
+          {
+            "id": "m8-l2-017",
+            "module": 8,
+            "lesson": 2,
+            "de": "unhöflich",
+            "en": "rude / impolite"
+          },
+          {
+            "id": "m8-l2-018",
+            "module": 8,
+            "lesson": 2,
+            "de": "professionell",
+            "en": "professional"
+          },
+          {
+            "id": "m8-l2-019",
+            "module": 8,
+            "lesson": 2,
+            "de": "respektvoll",
+            "en": "respectful"
+          },
+          {
+            "id": "m8-l2-020",
+            "module": 8,
+            "lesson": 2,
+            "de": "deutlich machen",
+            "en": "to make clear"
+          },
+          {
+            "id": "m8-l2-021",
+            "module": 8,
+            "lesson": 2,
+            "de": "eine Verständnisfrage",
+            "en": "question of understanding"
+          },
+          {
+            "id": "m8-l2-022",
+            "module": 8,
+            "lesson": 2,
+            "de": "der Kontext",
+            "en": "context"
+          },
+          {
+            "id": "m8-l2-023",
+            "module": 8,
+            "lesson": 2,
+            "de": "das Detail",
+            "en": "detail"
+          },
+          {
+            "id": "m8-l2-024",
+            "module": 8,
+            "lesson": 2,
+            "de": "die Aussage",
+            "en": "statement"
+          },
+          {
+            "id": "m8-l2-025",
+            "module": 8,
+            "lesson": 2,
+            "de": "falsch verstehen",
+            "en": "to misunderstand"
+          },
+          {
+            "id": "m8-l2-026",
+            "module": 8,
+            "lesson": 2,
+            "de": "Missverständnisse vermeiden",
+            "en": "to avoid misunderstandings"
+          }
+        ],
+        "lessonTitle": "Höflich unterbrechen & Rückfragen stellen",
+        "lessonNumber": 2,
+        "moduleId": 8
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m8-l3-000",
+            "module": 8,
+            "lesson": 3,
+            "de": "die Sprachbarriere",
+            "en": "language barrier"
+          },
+          {
+            "id": "m8-l3-001",
+            "module": 8,
+            "lesson": 3,
+            "de": "verständlich",
+            "en": "understandable"
+          },
+          {
+            "id": "m8-l3-002",
+            "module": 8,
+            "lesson": 3,
+            "de": "klar ausdrücken",
+            "en": "to express clearly"
+          },
+          {
+            "id": "m8-l3-003",
+            "module": 8,
+            "lesson": 3,
+            "de": "der Satz",
+            "en": "sentence"
+          },
+          {
+            "id": "m8-l3-004",
+            "module": 8,
+            "lesson": 3,
+            "de": "die Abkürzung",
+            "en": "abbreviation"
+          },
+          {
+            "id": "m8-l3-005",
+            "module": 8,
+            "lesson": 3,
+            "de": "das Fremdwort",
+            "en": "foreign word"
+          },
+          {
+            "id": "m8-l3-006",
+            "module": 8,
+            "lesson": 3,
+            "de": "das Fachwort / der Fachbegriff",
+            "en": "technical term"
+          },
+          {
+            "id": "m8-l3-007",
+            "module": 8,
+            "lesson": 3,
+            "de": "die Unsicherheit",
+            "en": "uncertainty"
+          },
+          {
+            "id": "m8-l3-008",
+            "module": 8,
+            "lesson": 3,
+            "de": "das Tempo",
+            "en": "pace / speed"
+          },
+          {
+            "id": "m8-l3-009",
+            "module": 8,
+            "lesson": 3,
+            "de": "langsam sprechen",
+            "en": "to speak slowly"
+          },
+          {
+            "id": "m8-l3-010",
+            "module": 8,
+            "lesson": 3,
+            "de": "der Nominalstil",
+            "en": "nominal style"
+          },
+          {
+            "id": "m8-l3-011",
+            "module": 8,
+            "lesson": 3,
+            "de": "aktiv sprechen",
+            "en": "to speak in active voice"
+          },
+          {
+            "id": "m8-l3-012",
+            "module": 8,
+            "lesson": 3,
+            "de": "überarbeiten",
+            "en": "to revise"
+          },
+          {
+            "id": "m8-l3-013",
+            "module": 8,
+            "lesson": 3,
+            "de": "der Chat",
+            "en": "chat"
+          },
+          {
+            "id": "m8-l3-014",
+            "module": 8,
+            "lesson": 3,
+            "de": "zusammenfassen",
+            "en": "to summarize"
+          },
+          {
+            "id": "m8-l3-015",
+            "module": 8,
+            "lesson": 3,
+            "de": "nachreichen",
+            "en": "to submit later"
+          },
+          {
+            "id": "m8-l3-016",
+            "module": 8,
+            "lesson": 3,
+            "de": "das Beispiel",
+            "en": "example"
+          },
+          {
+            "id": "m8-l3-017",
+            "module": 8,
+            "lesson": 3,
+            "de": "sich wiederholen",
+            "en": "to repeat oneself"
+          },
+          {
+            "id": "m8-l3-018",
+            "module": 8,
+            "lesson": 3,
+            "de": "freundlich bleiben",
+            "en": "to stay friendly"
+          },
+          {
+            "id": "m8-l3-019",
+            "module": 8,
+            "lesson": 3,
+            "de": "Verantwortung übernehmen",
+            "en": "to take responsibility"
+          },
+          {
+            "id": "m8-l3-020",
+            "module": 8,
+            "lesson": 3,
+            "de": "Feedback geben",
+            "en": "to give feedback"
+          },
+          {
+            "id": "m8-l3-021",
+            "module": 8,
+            "lesson": 3,
+            "de": "das Follow - up",
+            "en": "follow - up (noun)"
+          },
+          {
+            "id": "m8-l3-022",
+            "module": 8,
+            "lesson": 3,
+            "de": "die Kommunikation",
+            "en": "communication"
+          },
+          {
+            "id": "m8-l3-023",
+            "module": 8,
+            "lesson": 3,
+            "de": "konkret formulieren",
+            "en": "to phrase specifically"
+          },
+          {
+            "id": "m8-l3-024",
+            "module": 8,
+            "lesson": 3,
+            "de": "Missverständnis",
+            "en": "misunderstanding"
+          },
+          {
+            "id": "m8-l3-025",
+            "module": 8,
+            "lesson": 3,
+            "de": "klären",
+            "en": "to clarify"
+          },
+          {
+            "id": "m8-l3-026",
+            "module": 8,
+            "lesson": 3,
+            "de": "sich verbessern",
+            "en": "to improve oneself"
+          },
+          {
+            "id": "m8-l3-027",
+            "module": 8,
+            "lesson": 3,
+            "de": "sich unsicher fühlen",
+            "en": "to feel unsure"
+          }
+        ],
+        "lessonTitle": "Verständlich bleiben trotz Sprachbarriere",
+        "lessonNumber": 3,
+        "moduleId": 8
+      }
+    ]
+  },
+  {
+    "moduleTitle": "Bewerbung & Karriere im Tech-Bereich",
+    "moduleId": 9,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m9-l1-000",
+            "module": 9,
+            "lesson": 1,
+            "de": "der Lebenslauf",
+            "en": "résumé / CV"
+          },
+          {
+            "id": "m9-l1-001",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Bewerbung",
+            "en": "application"
+          },
+          {
+            "id": "m9-l1-002",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Berufserfahrung",
+            "en": "professional experience"
+          },
+          {
+            "id": "m9-l1-003",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Ausbildung",
+            "en": "education"
+          },
+          {
+            "id": "m9-l1-004",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Kenntnisse",
+            "en": "skills / knowledge"
+          },
+          {
+            "id": "m9-l1-005",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Fähigkeiten",
+            "en": "abilities / competencies"
+          },
+          {
+            "id": "m9-l1-006",
+            "module": 9,
+            "lesson": 1,
+            "de": "das Zertifikat",
+            "en": "certificate"
+          },
+          {
+            "id": "m9-l1-007",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Weiterbildung",
+            "en": "further training"
+          },
+          {
+            "id": "m9-l1-008",
+            "module": 9,
+            "lesson": 1,
+            "de": "das Interesse",
+            "en": "interest"
+          },
+          {
+            "id": "m9-l1-009",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Unterschrift",
+            "en": "signature"
+          },
+          {
+            "id": "m9-l1-010",
+            "module": 9,
+            "lesson": 1,
+            "de": "chronologisch",
+            "en": "chronological"
+          },
+          {
+            "id": "m9-l1-011",
+            "module": 9,
+            "lesson": 1,
+            "de": "strukturiert",
+            "en": "structured"
+          },
+          {
+            "id": "m9-l1-012",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Position",
+            "en": "position"
+          },
+          {
+            "id": "m9-l1-013",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Aufgabe",
+            "en": "task"
+          },
+          {
+            "id": "m9-l1-014",
+            "module": 9,
+            "lesson": 1,
+            "de": "der Erfolg",
+            "en": "success"
+          },
+          {
+            "id": "m9-l1-015",
+            "module": 9,
+            "lesson": 1,
+            "de": "der Abschnitt",
+            "en": "section"
+          },
+          {
+            "id": "m9-l1-016",
+            "module": 9,
+            "lesson": 1,
+            "de": "optional",
+            "en": "optional"
+          },
+          {
+            "id": "m9-l1-017",
+            "module": 9,
+            "lesson": 1,
+            "de": "der Ansprechpartner",
+            "en": "contact person"
+          },
+          {
+            "id": "m9-l1-018",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Programmiersprache",
+            "en": "programming language"
+          },
+          {
+            "id": "m9-l1-019",
+            "module": 9,
+            "lesson": 1,
+            "de": "das Tool",
+            "en": "tool"
+          },
+          {
+            "id": "m9-l1-020",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Methode",
+            "en": "method"
+          },
+          {
+            "id": "m9-l1-022",
+            "module": 9,
+            "lesson": 1,
+            "de": "das Niveau (z B. B2)",
+            "en": "level"
+          },
+          {
+            "id": "m9-l1-023",
+            "module": 9,
+            "lesson": 1,
+            "de": "der Lebenslaufaufbau",
+            "en": "résumé structure"
+          },
+          {
+            "id": "m9-l1-024",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Soft Skills",
+            "en": "soft skills"
+          },
+          {
+            "id": "m9-l1-025",
+            "module": 9,
+            "lesson": 1,
+            "de": "der Bullet Point",
+            "en": "bullet point"
+          },
+          {
+            "id": "m9-l1-026",
+            "module": 9,
+            "lesson": 1,
+            "de": "das Bewerbungsfoto",
+            "en": "application photo"
+          },
+          {
+            "id": "m9-l1-027",
+            "module": 9,
+            "lesson": 1,
+            "de": "berufstypisch",
+            "en": "typical for the profession"
+          },
+          {
+            "id": "m9-l1-028",
+            "module": 9,
+            "lesson": 1,
+            "de": "die Selbstpräsentation",
+            "en": "self-presentation"
+          }
+        ],
+        "lessonTitle": "Lebenslauf auf Deutsch für Tech-Jobs",
+        "lessonNumber": 1,
+        "moduleId": 9
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m9-l2-000",
+            "module": 9,
+            "lesson": 2,
+            "de": "das Anschreiben",
+            "en": "cover letter"
+          },
+          {
+            "id": "m9-l2-001",
+            "module": 9,
+            "lesson": 2,
+            "de": "das Motivationsschreiben",
+            "en": "letter of motivation"
+          },
+          {
+            "id": "m9-l2-002",
+            "module": 9,
+            "lesson": 2,
+            "de": "die Betreffzeile",
+            "en": "subject line"
+          },
+          {
+            "id": "m9-l2-003",
+            "module": 9,
+            "lesson": 2,
+            "de": "die Einleitung",
+            "en": "introduction"
+          },
+          {
+            "id": "m9-l2-004",
+            "module": 9,
+            "lesson": 2,
+            "de": "die Motivation",
+            "en": "motivation"
+          },
+          {
+            "id": "m9-l2-005",
+            "module": 9,
+            "lesson": 2,
+            "de": "die Passung",
+            "en": "suitability / fit"
+          },
+          {
+            "id": "m9-l2-006",
+            "module": 9,
+            "lesson": 2,
+            "de": "der Mehrwert",
+            "en": "added value"
+          },
+          {
+            "id": "m9-l2-007",
+            "module": 9,
+            "lesson": 2,
+            "de": "die Formulierung",
+            "en": "phrasing / wording"
+          },
+          {
+            "id": "m9-l2-008",
+            "module": 9,
+            "lesson": 2,
+            "de": "der Ansprechpartner",
+            "en": "contact person"
+          },
+          {
+            "id": "m9-l2-009",
+            "module": 9,
+            "lesson": 2,
+            "de": "das Beispiel",
+            "en": "example"
+          },
+          {
+            "id": "m9-l2-010",
+            "module": 9,
+            "lesson": 2,
+            "de": "sich bewerben",
+            "en": "to apply"
+          },
+          {
+            "id": "m9-l2-011",
+            "module": 9,
+            "lesson": 2,
+            "de": "überzeugen",
+            "en": "to convince"
+          },
+          {
+            "id": "m9-l2-012",
+            "module": 9,
+            "lesson": 2,
+            "de": "konkret",
+            "en": "concrete / specific"
+          },
+          {
+            "id": "m9-l2-013",
+            "module": 9,
+            "lesson": 2,
+            "de": "aktiv (Sprache)",
+            "en": "active (language)"
+          },
+          {
+            "id": "m9-l2-014",
+            "module": 9,
+            "lesson": 2,
+            "de": "floskelhaft",
+            "en": "clichéd"
+          },
+          {
+            "id": "m9-l2-015",
+            "module": 9,
+            "lesson": 2,
+            "de": "die Wiederholung",
+            "en": "repetition"
+          },
+          {
+            "id": "m9-l2-016",
+            "module": 9,
+            "lesson": 2,
+            "de": "das Tech-Profil",
+            "en": "tech profile"
+          },
+          {
+            "id": "m9-l2-017",
+            "module": 9,
+            "lesson": 2,
+            "de": "die Sprachkompetenz",
+            "en": "language skills"
+          },
+          {
+            "id": "m9-l2-018",
+            "module": 9,
+            "lesson": 2,
+            "de": "der Abschluss",
+            "en": "closing / conclusion"
+          },
+          {
+            "id": "m9-l2-019",
+            "module": 9,
+            "lesson": 2,
+            "de": "die Verfügbarkeit",
+            "en": "availability"
+          }
+        ],
+        "lessonTitle": "Anschreiben für Entwickler, Designer, IT-Projektmanager",
+        "lessonNumber": 2,
+        "moduleId": 9
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m9-l3-000",
+            "module": 9,
+            "lesson": 3,
+            "de": "das Vorstellungsgespräch",
+            "en": "job interview"
+          },
+          {
+            "id": "m9-l3-001",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Selbstvorstellung",
+            "en": "self-introduction"
+          },
+          {
+            "id": "m9-l3-002",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Begrüßung",
+            "en": "greeting"
+          },
+          {
+            "id": "m9-l3-003",
+            "module": 9,
+            "lesson": 3,
+            "de": "der Werdegang",
+            "en": "career path"
+          },
+          {
+            "id": "m9-l3-004",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Motivation",
+            "en": "motivation"
+          },
+          {
+            "id": "m9-l3-005",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Schwäche",
+            "en": "weakness"
+          },
+          {
+            "id": "m9-l3-006",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Stärke",
+            "en": "strength"
+          },
+          {
+            "id": "m9-l3-007",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Entwicklungsperspektive",
+            "en": "development perspective"
+          },
+          {
+            "id": "m9-l3-008",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Rückfrage",
+            "en": "follow-up question"
+          },
+          {
+            "id": "m9-l3-009",
+            "module": 9,
+            "lesson": 3,
+            "de": "das Feedback",
+            "en": "feedback"
+          },
+          {
+            "id": "m9-l3-010",
+            "module": 9,
+            "lesson": 3,
+            "de": "das technische Problem",
+            "en": "technical issue"
+          },
+          {
+            "id": "m9-l3-011",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Kommunikation",
+            "en": "communication"
+          },
+          {
+            "id": "m9-l3-012",
+            "module": 9,
+            "lesson": 3,
+            "de": "das Tool",
+            "en": "tool"
+          },
+          {
+            "id": "m9-l3-013",
+            "module": 9,
+            "lesson": 3,
+            "de": "das Projekt",
+            "en": "project"
+          },
+          {
+            "id": "m9-l3-014",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Teamarbeit",
+            "en": "teamwork"
+          },
+          {
+            "id": "m9-l3-015",
+            "module": 9,
+            "lesson": 3,
+            "de": "die Sprintplanung",
+            "en": "sprint planning"
+          },
+          {
+            "id": "m9-l3-016",
+            "module": 9,
+            "lesson": 3,
+            "de": "debuggen",
+            "en": "to debug"
+          },
+          {
+            "id": "m9-l3-017",
+            "module": 9,
+            "lesson": 3,
+            "de": "wartbar",
+            "en": "maintainable"
+          },
+          {
+            "id": "m9-l3-018",
+            "module": 9,
+            "lesson": 3,
+            "de": "der Deadlock",
+            "en": "deadlock"
+          },
+          {
+            "id": "m9-l3-019",
+            "module": 9,
+            "lesson": 3,
+            "de": "skalierbar",
+            "en": "scalable"
+          },
+          {
+            "id": "m9-l3-020",
+            "module": 9,
+            "lesson": 3,
+            "de": "sich weiterentwickeln",
+            "en": "to grow / develop further"
+          }
+        ],
+        "lessonTitle": "Vorstellungsgespräch auf Deutsch – typische Fragen",
+        "lessonNumber": 3,
+        "moduleId": 9
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m9-l4-000",
+            "module": 9,
+            "lesson": 4,
+            "de": "das Gehalt",
+            "en": "salary"
+          },
+          {
+            "id": "m9-l4-001",
+            "module": 9,
+            "lesson": 4,
+            "de": "die Gehaltsverhandlung",
+            "en": "salary negotiation"
+          },
+          {
+            "id": "m9-l4-002",
+            "module": 9,
+            "lesson": 4,
+            "de": "brutto",
+            "en": "gross"
+          },
+          {
+            "id": "m9-l4-003",
+            "module": 9,
+            "lesson": 4,
+            "de": "netto",
+            "en": "net"
+          },
+          {
+            "id": "m9-l4-004",
+            "module": 9,
+            "lesson": 4,
+            "de": "jährlich",
+            "en": "annually"
+          },
+          {
+            "id": "m9-l4-005",
+            "module": 9,
+            "lesson": 4,
+            "de": "die Gehaltsspanne",
+            "en": "salary range"
+          },
+          {
+            "id": "m9-l4-006",
+            "module": 9,
+            "lesson": 4,
+            "de": "der Benefit",
+            "en": "benefit / perk"
+          },
+          {
+            "id": "m9-l4-007",
+            "module": 9,
+            "lesson": 4,
+            "de": "das Bewerbungsgespräch",
+            "en": "job interview"
+          },
+          {
+            "id": "m9-l4-008",
+            "module": 9,
+            "lesson": 4,
+            "de": "der Small Talk",
+            "en": "small talk"
+          },
+          {
+            "id": "m9-l4-009",
+            "module": 9,
+            "lesson": 4,
+            "de": "das Thema",
+            "en": "topic"
+          },
+          {
+            "id": "m9-l4-010",
+            "module": 9,
+            "lesson": 4,
+            "de": "die Anreise",
+            "en": "arrival / journey"
+          },
+          {
+            "id": "m9-l4-011",
+            "module": 9,
+            "lesson": 4,
+            "de": "die Flexibilität",
+            "en": "flexibility"
+          },
+          {
+            "id": "m9-l4-012",
+            "module": 9,
+            "lesson": 4,
+            "de": "das Homeoffice",
+            "en": "remote work / home office"
+          },
+          {
+            "id": "m9-l4-013",
+            "module": 9,
+            "lesson": 4,
+            "de": "der Firmenlaptop",
+            "en": "company laptop"
+          },
+          {
+            "id": "m9-l4-014",
+            "module": 9,
+            "lesson": 4,
+            "de": "die Arbeitszeit",
+            "en": "working hours"
+          },
+          {
+            "id": "m9-l4-015",
+            "module": 9,
+            "lesson": 4,
+            "de": "marktüblich",
+            "en": "standard in the industry"
+          },
+          {
+            "id": "m9-l4-016",
+            "module": 9,
+            "lesson": 4,
+            "de": "selbstbewusst",
+            "en": "confident"
+          },
+          {
+            "id": "m9-l4-017",
+            "module": 9,
+            "lesson": 4,
+            "de": "höflich",
+            "en": "polite"
+          },
+          {
+            "id": "m9-l4-018",
+            "module": 9,
+            "lesson": 4,
+            "de": "vermeidbar",
+            "en": "avoidable"
+          },
+          {
+            "id": "m9-l4-019",
+            "module": 9,
+            "lesson": 4,
+            "de": "unverfänglich",
+            "en": "innocuous / uncontroversial"
+          }
+        ],
+        "lessonTitle": "Gehaltsverhandlung und Small Talk",
+        "lessonNumber": 4,
+        "moduleId": 9
+      }
+    ]
+  },
+  {
+    "moduleTitle": "Typische Fehler vermeiden",
+    "moduleId": 10,
+    "lessons": [
+      {
+        "flashcards": [
+          {
+            "id": "m10-l1-000",
+            "module": 10,
+            "lesson": 1,
+            "de": "der Genitiv",
+            "en": "genitive case"
+          },
+          {
+            "id": "m10-l1-001",
+            "module": 10,
+            "lesson": 1,
+            "de": "die Höflichkeitsform",
+            "en": "polite form"
+          },
+          {
+            "id": "m10-l1-002",
+            "module": 10,
+            "lesson": 1,
+            "de": "siezen",
+            "en": "to address formally (with „Sie“)"
+          },
+          {
+            "id": "m10-l1-003",
+            "module": 10,
+            "lesson": 1,
+            "de": "duzen",
+            "en": "to address informally (with „du“)"
+          },
+          {
+            "id": "m10-l1-004",
+            "module": 10,
+            "lesson": 1,
+            "de": "die Verbposition",
+            "en": "verb position"
+          },
+          {
+            "id": "m10-l1-005",
+            "module": 10,
+            "lesson": 1,
+            "de": "der Nebensatz",
+            "en": "subordinate clause"
+          },
+          {
+            "id": "m10-l1-006",
+            "module": 10,
+            "lesson": 1,
+            "de": "die Stolperfalle",
+            "en": "pitfall / trap"
+          },
+          {
+            "id": "m10-l1-007",
+            "module": 10,
+            "lesson": 1,
+            "de": "der Ausdruck",
+            "en": "expression / phrase"
+          },
+          {
+            "id": "m10-l1-008",
+            "module": 10,
+            "lesson": 1,
+            "de": "falsch",
+            "en": "wrong / incorrect"
+          },
+          {
+            "id": "m10-l1-009",
+            "module": 10,
+            "lesson": 1,
+            "de": "richtig",
+            "en": "correct"
+          },
+          {
+            "id": "m10-l1-010",
+            "module": 10,
+            "lesson": 1,
+            "de": "vermeiden",
+            "en": "to avoid"
+          },
+          {
+            "id": "m10-l1-011",
+            "module": 10,
+            "lesson": 1,
+            "de": "kontrollieren",
+            "en": "to check / inspect"
+          },
+          {
+            "id": "m10-l1-012",
+            "module": 10,
+            "lesson": 1,
+            "de": "überwachen",
+            "en": "to monitor"
+          },
+          {
+            "id": "m10-l1-013",
+            "module": 10,
+            "lesson": 1,
+            "de": "koordinieren",
+            "en": "to coordinate"
+          },
+          {
+            "id": "m10-l1-014",
+            "module": 10,
+            "lesson": 1,
+            "de": "realisieren",
+            "en": "to conceptualize / perceive"
+          },
+          {
+            "id": "m10-l1-015",
+            "module": 10,
+            "lesson": 1,
+            "de": "umsetzen",
+            "en": "to implement"
+          },
+          {
+            "id": "m10-l1-016",
+            "module": 10,
+            "lesson": 1,
+            "de": "sich interessieren für",
+            "en": "to be interested in"
+          },
+          {
+            "id": "m10-l1-017",
+            "module": 10,
+            "lesson": 1,
+            "de": "der falsche Freund",
+            "en": "false friend"
+          },
+          {
+            "id": "m10-l1-018",
+            "module": 10,
+            "lesson": 1,
+            "de": "denglisch",
+            "en": "Denglish (German-English hybrid)"
+          },
+          {
+            "id": "m10-l1-019",
+            "module": 10,
+            "lesson": 1,
+            "de": "das Missverständnis",
+            "en": "misunderstanding"
+          },
+          {
+            "id": "m10-l1-020",
+            "module": 10,
+            "lesson": 1,
+            "de": "die Übersetzung",
+            "en": "translation"
+          },
+          {
+            "id": "m10-l1-021",
+            "module": 10,
+            "lesson": 1,
+            "de": "das Adjektiv",
+            "en": "adjective"
+          },
+          {
+            "id": "m10-l1-022",
+            "module": 10,
+            "lesson": 1,
+            "de": "das Verb",
+            "en": "verb"
+          },
+          {
+            "id": "m10-l1-023",
+            "module": 10,
+            "lesson": 1,
+            "de": "die Präposition",
+            "en": "preposition"
+          },
+          {
+            "id": "m10-l1-024",
+            "module": 10,
+            "lesson": 1,
+            "de": "aufgrund",
+            "en": "due to"
+          },
+          {
+            "id": "m10-l1-025",
+            "module": 10,
+            "lesson": 1,
+            "de": "wegen",
+            "en": "because of"
+          },
+          {
+            "id": "m10-l1-026",
+            "module": 10,
+            "lesson": 1,
+            "de": "peinlich",
+            "en": "embarrassing"
+          },
+          {
+            "id": "m10-l1-027",
+            "module": 10,
+            "lesson": 1,
+            "de": "höflich",
+            "en": "polite"
+          },
+          {
+            "id": "m10-l1-028",
+            "module": 10,
+            "lesson": 1,
+            "de": "sachlich",
+            "en": "objective / factual"
+          },
+          {
+            "id": "m10-l1-029",
+            "module": 10,
+            "lesson": 1,
+            "de": "emotional",
+            "en": "emotional"
+          },
+          {
+            "id": "m10-l1-030",
+            "module": 10,
+            "lesson": 1,
+            "de": "die Korrektur",
+            "en": "correction"
+          }
+        ],
+        "lessonTitle": "Häufige Grammatik- und Wortschatzfehler im Business-Kontext",
+        "lessonNumber": 1,
+        "moduleId": 10
+      },
+      {
+        "flashcards": [
+          {
+            "id": "m10-l2-000",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Direktheit",
+            "en": "directness"
+          },
+          {
+            "id": "m10-l2-001",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Kritik",
+            "en": "criticism"
+          },
+          {
+            "id": "m10-l2-002",
+            "module": 10,
+            "lesson": 2,
+            "de": "sachlich",
+            "en": "factual / matter-of-fact"
+          },
+          {
+            "id": "m10-l2-003",
+            "module": 10,
+            "lesson": 2,
+            "de": "persönlich nehmen",
+            "en": "to take personally"
+          },
+          {
+            "id": "m10-l2-004",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Pünktlichkeit",
+            "en": "punctuality"
+          },
+          {
+            "id": "m10-l2-005",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Verspätung",
+            "en": "delay / lateness"
+          },
+          {
+            "id": "m10-l2-006",
+            "module": 10,
+            "lesson": 2,
+            "de": "ankündigen",
+            "en": "to announce"
+          },
+          {
+            "id": "m10-l2-007",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Anredeform",
+            "en": "form of address"
+          },
+          {
+            "id": "m10-l2-008",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Höflichkeitsformel",
+            "en": "polite phrase"
+          },
+          {
+            "id": "m10-l2-009",
+            "module": 10,
+            "lesson": 2,
+            "de": "das Online-Meeting",
+            "en": "online meeting"
+          },
+          {
+            "id": "m10-l2-010",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Ankunft",
+            "en": "arrival"
+          },
+          {
+            "id": "m10-l2-011",
+            "module": 10,
+            "lesson": 2,
+            "de": "sich entschuldigen",
+            "en": "to apologize"
+          },
+          {
+            "id": "m10-l2-012",
+            "module": 10,
+            "lesson": 2,
+            "de": "das Verhältnis",
+            "en": "relationship / rapport"
+          },
+          {
+            "id": "m10-l2-013",
+            "module": 10,
+            "lesson": 2,
+            "de": "der Small Talk",
+            "en": "small talk"
+          },
+          {
+            "id": "m10-l2-014",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Grenze",
+            "en": "boundary"
+          },
+          {
+            "id": "m10-l2-015",
+            "module": 10,
+            "lesson": 2,
+            "de": "formell",
+            "en": "formal"
+          },
+          {
+            "id": "m10-l2-016",
+            "module": 10,
+            "lesson": 2,
+            "de": "informell",
+            "en": "informal"
+          },
+          {
+            "id": "m10-l2-017",
+            "module": 10,
+            "lesson": 2,
+            "de": "die E-Mail-Anrede",
+            "en": "email salutation"
+          },
+          {
+            "id": "m10-l2-018",
+            "module": 10,
+            "lesson": 2,
+            "de": "„Sehr geehrte(r)“",
+            "en": "“Dear…” (formal German salutation)"
+          },
+          {
+            "id": "m10-l2-019",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Trennung",
+            "en": "separation"
+          },
+          {
+            "id": "m10-l2-020",
+            "module": 10,
+            "lesson": 2,
+            "de": "beruflich",
+            "en": "professional"
+          },
+          {
+            "id": "m10-l2-021",
+            "module": 10,
+            "lesson": 2,
+            "de": "persönlich",
+            "en": "personal"
+          },
+          {
+            "id": "m10-l2-022",
+            "module": 10,
+            "lesson": 2,
+            "de": "die Unternehmenskultur",
+            "en": "company culture"
+          },
+          {
+            "id": "m10-l2-023",
+            "module": 10,
+            "lesson": 2,
+            "de": "sich nähern",
+            "en": "to approach / get closer"
+          },
+          {
+            "id": "m10-l2-024",
+            "module": 10,
+            "lesson": 2,
+            "de": "das Du anbieten",
+            "en": "to offer the informal \"du\""
+          },
+          {
+            "id": "m10-l2-025",
+            "module": 10,
+            "lesson": 2,
+            "de": "sachorientiert",
+            "en": "task-oriented"
+          },
+          {
+            "id": "m10-l2-026",
+            "module": 10,
+            "lesson": 2,
+            "de": "lösungsorientiert",
+            "en": "solution-oriented"
+          },
+          {
+            "id": "m10-l2-027",
+            "module": 10,
+            "lesson": 2,
+            "de": "sich zurückziehen",
+            "en": "to withdraw"
+          },
+          {
+            "id": "m10-l2-028",
+            "module": 10,
+            "lesson": 2,
+            "de": "sich rechtfertigen",
+            "en": "to justify oneself"
+          }
+        ],
+        "lessonTitle": "Interkulturelle Stolperfallen im deutschen Berufsalltag",
+        "lessonNumber": 2,
+        "moduleId": 10
+      }
+    ]
+  }
+]
