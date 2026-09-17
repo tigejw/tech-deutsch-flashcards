@@ -1,11 +1,10 @@
-import './App.css'
-import { LessonSelector } from './components/lessonSelector'
+import { LessonSelector } from './components/LessonSelector.tsx'
 import { moduleSummaries } from './data/vocab'
-function doFUckall(){}
+
 function App() {
   return (
     <>
-    <LessonSelector modules={moduleSummaries} onStart={doFUckall}/>
+    <LessonSelector modules={moduleSummaries}/>
     </>
   )
 }
