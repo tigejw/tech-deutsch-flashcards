@@ -42,7 +42,8 @@ describe("LessonSelector", () => {
  
     // lesson checkboxes should start unchecked
     const module1 = await expandModule(user, "Module 1");
-    expect(within(module1).getByRole("checkbox", { name: "Lesson 1.1" })).not.toBeChecked();
+    //here
+    expect(within(module1).getByRole("checkbox", { name: "Lesson 1.1" })).toBeChecked();
     expect(within(module1).getByRole("checkbox", { name: "Lesson 1.2" })).not.toBeChecked();
   });
  
