@@ -1,13 +1,13 @@
 import { useState } from "react";
-import { useLessonSelection } from "../hooks/useLessonSelection";
-import type { ModuleSummary } from "../types/vocab";
+import type { ActiveModuleSummary } from "../types/vocab";
 
 type LessonSelectorProps = {
-  modules: ModuleSummary[];
+  modules: ActiveModuleSummary[];
+  onToggleModule: (moduleId: number) => void;
+  onToggleLesson: (moduleId: number, lessonId: number) => void;
 };
 
-export function LessonSelector({ modules }: LessonSelectorProps) {
-  const { activeModulesSummary, toggleLesson, toggleModule } = useLessonSelection(modules);
+export function LessonSelector({ modules, onToggleModule, onToggleLesson }: LessonSelectorProps) {
   const [expandedModuleIds, setExpandedModuleIds] = useState<Set<number>>(new Set());
 
   const toggleExpanded = (moduleId: number) => {
@@ -24,7 +24,7 @@ export function LessonSelector({ modules }: LessonSelectorProps) {
 
   return (
     <ul>
-      {activeModulesSummary.map((m) => {
+      {modules.map((m) => {
         const isExpanded = expandedModuleIds.has(m.moduleId);
         const activeCount = m.lessons.filter((l) => l.active).length;
 
@@ -38,7 +38,7 @@ export function LessonSelector({ modules }: LessonSelectorProps) {
               <input
                 type="checkbox"
                 checked={activeCount === m.lessons.length && m.lessons.length > 0}
-                onChange={() => toggleModule(m.moduleId)}
+                onChange={() => onToggleModule(m.moduleId)}
               />
               {m.moduleTitle}
             </label>
@@ -51,7 +51,7 @@ export function LessonSelector({ modules }: LessonSelectorProps) {
                       <input
                         type="checkbox"
                         checked={l.active}
-                        onChange={() => toggleLesson(m.moduleId, l.lessonId)}
+                        onChange={() => onToggleLesson(m.moduleId, l.lessonId)}
                       />
                       {l.lessonTitle}
                     </label>
